@@ -11,3 +11,15 @@ Identificar el problema y definir una solucion al mismo.
 ## Sprint Review
 
 ## Retrospective
+
+<hr>
+
+# Investigacion Nombre de APP
+
+### Cumple con los requisitos
+
+### Pros
+
+### Cons
+
+### Observaciones
