@@ -35,9 +35,9 @@ Utilizaremos GitFlow como estrategia de branching con un leve cambio, agregamos 
 
 Seguiremos la siguiente estrategia para los pull requests, y al final de cada sprint se creara un pull request de <strong>dev</strong> a <strong>main</strong> para pushear los cambios realizados sobre la iteracion.
 
-- feature/X - Feature sobre historia X a desarollar.
+- feature/X - Feature sobre historia X a desarrollar.
 
-- hotfix/X - Hotfix sobre historia X ya desarollada.
+- hotfix/X - Hotfix sobre historia X ya desarrollada.
 
 - bug/X - Fix de bug sobre historia X.
 
@@ -45,7 +45,31 @@ Seguiremos la siguiente estrategia para los pull requests, y al final de cada sp
 
 ### Definition of Ready
 
+Consideraremos que una Historia de Usuario estará lista para desarrollarese cuando cumpla con el criterio INVEST: Independiente, Negociable, Valiosa, Estimable, Corta (Short) y Testeable.
+
+Es decir, para que una Historia de Usuario sera incluida en el siguiente Sprint por el equipo de desarrollo debe presentar las siguientes características:
+
+- Independiente: no tendrá dependencias con otras historias que pudieran impedir su desarrollo. Por tanto, si para que la funcionalidad A sea posible es necesario tener la B, entonces la historia A no es independiente.
+
+- Negociable: debe permitir espacio para la discusión con el Product Owner.
+
+- Valiosa: debe aportar valor al cliente. Cumpliendo este criterio evitas desarrollar algo inútil.
+
+- Estimable: puede ser estimada por el DevTeam (en tamaño relativo, en puntos de historia, etc).
+
+- Corta: debe poder terminarse durante el Sprint. Si se encuentra una Historia demasiado grande, eso exige al Product Owner que la subdivida en varias Historias más pequeñas.
+
+- Testeable: la Historia en su descripción debe contar con la información suficiente como para poder ser probada.
+
 ### Definition of Done
+
+Consideraremos que una Historia de Usuario estará terminada cuando cumpla con las siguientes caracteristicas:
+
+- Existencia de prototipo sobre la Historia de Usuario.
+
+- Review sobre los cambios realizados por al menos 2 reviewers.
+
+- Documentacion actualizada sobre los cambios realizados.
 
 # Sprints
 
