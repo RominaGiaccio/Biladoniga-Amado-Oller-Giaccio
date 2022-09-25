@@ -49,4 +49,4 @@ Seguiremos la siguiente estrategia para los pull requests, y al final de cada sp
 
 # Sprints
 
-### Sprint 1 - [link](./Sprint1\README.md)
+### Sprint 1 - [link](https://github.com/RominaGiaccio/Biladoniga-Amado-Oller-Giaccio/tree/dev/Sprint1)
