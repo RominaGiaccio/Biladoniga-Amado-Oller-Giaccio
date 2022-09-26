@@ -98,3 +98,46 @@ Identificar el problema y definir una solucion al mismo.
 - No se permiten guardar los viajes hechos previamente, solo las ubicaciones
 
 ### Observaciones
+# Investigacion: CityMapper
+
+### Cumple con los requisitos
+
+- Cuenta con login, inicio de sesión y contraseñas.
+- Cuenta con filtros.
+- No contiene historial de viajes (Solo de omnibus tomados, como un filtro)
+- Cuenta con modo viaje
+- Se puede compartir el viaje en forma de screenshots y mediante otras aplicaciones de mensajeria instantanea mas utilizadas
+- Esta disponible para android desde la aplicacion de PlayStore
+- No cuenta con informacion de la cantidad de pasajeros en los vehiculos
+- Cuenta con notificaciones del viaje
+
+### Pros
+
+- La primera vez que se abre la ni siquiera requiere tutorial porque es muy intuitiva.
+- Es internacionalmente conocida.
+- Esta muy optimizada, corre sin trancazos y con muy linda interfaz gráfica.
+- Se puede compartir como vinculo y por las principales aplicaciones de mensajeria.
+- Muestra en el mapa ubicaciones de interes y lugares de gran concurrencia
+- Se pueden deshabilitar las notificaciones
+- Permite visualizar recorridos
+- Permite enviar screenshots
+- Permite configurar la primera patalla al iniciar la aplicacion
+- Permite eliminar la publicidad (opcion paga).
+- Contiene una lista de lugares de interes (limitada pero complementaria a la lista de lugares favoritos)
+- Permite ver opciones para varios medios de transporte como tren, metro bus, bicicleta, caminata, MetroBus, etc.
+- Permite guardar la ubicacion de un hogar para acceder a rutas facilmente. Tambien permit agregar la ubicacion del trabajo y otros sitios de gran relevancia.
+- Permite monitorear el ahorro de CO2, calorias quemadas y el dinero ahorrado.
+### Cons
+
+- La opcion de pago es muy costosa.
+- No tiene nocion de rutas peligrosas.
+- Todavia no llego al mercado nacional. 
+- No cuenta con la opcion para descargar como pdf o archivo de imagen.
+- No tiene tema dark.
+
+### Observaciones
+
+- Es muy intuitiva.
+- Es rapida.
+- Es facil aprender a usarla y hacerse un usuario. 
+- De presentarse al mercado nacional va a ser un competidor voraz. 
