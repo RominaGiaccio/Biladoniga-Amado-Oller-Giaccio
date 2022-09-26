@@ -46,17 +46,21 @@ Identificar el problema y definir una solucion al mismo.
 - Permite configurar la primera patalla al iniciar la aplicacion
 - Permite eliminar la publicidad
 - Permite agregar paradas y muestra los horarios de omnibus que pasan por la misma
+- Contiene informacion sobre posibles trasbordos (no muy detallado)
+- Contiene una lista de lugares de interes (limitada pero complementaria a la lista de lugares favoritos)
 ### Cons
 - El boton de seleccionar ida y vuelta no es intuitivo, podria parecer que solo se tiene una opcion.
 - La informacion parece que se muestra en una pantalla gigante, no tiene indicaciones sobre como ver el contenido completo.
 - No cuenta con la opcion para descargar como pdf o archivo de imagen.
-- Tiene una opcion de agregar a favoritos que no da opciones ni sugerencias.
 - Para aplicar el tema dark, es necesario reiniciar la aplicacion
-- No cuenta con tiempo de espera hasta el siguiente omnibus de la linea en tiempo real, se puede consultar informacion de partida/llegada a la terminal y algunas paradas especificas.
+- Tiene una busqueda de lugares de interes pero estos son fijos (no puedes consultar lugares por nombre que no esten en el listado, si por esquina o numero)
+- Indica tiempo de llegada al destino pero en una ventana que dura unos segundos abierta.
+- La lista de recientes indica todos los lugares que se propusieron como puntos de destino/origen/favoritos sin importar si se llavo a cabo el viaje.
 ### Observaciones
 - En general resulta poco intuitiva.
 - Existen pantallas a las que es dificil retornar.
 - Permite guardar las paradas que utiliza el usuario, si bien no es muy intuitiva, podria ser una buena opcion para una persona mayor que frecuenta siempre las mismas ubicaciones, si solo utiliza esta funcionalidad.
 - Falta de funcionalidades importantes (seguimiento de viaje).
+- La seleccion de origen - destino es complicada.
 
 
