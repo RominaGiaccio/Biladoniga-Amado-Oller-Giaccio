@@ -202,4 +202,4 @@ Identificar el problema y definir una solucion al mismo.
 
 # Product Backlog (Priorizado 1-4)
 
-![image info](./assets/backlog.png)
+![product backlog](https://github.com/RominaGiaccio/Biladoniga-Amado-Oller-Giaccio/blob/dev/Sprint1/assets/backlog.PNG)
