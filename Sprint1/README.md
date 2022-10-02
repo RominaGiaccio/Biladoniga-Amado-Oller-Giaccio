@@ -8,6 +8,19 @@ Identificar el problema y definir una solucion al mismo.
 
 ## Dailies
 
+### Daily 26-09-2022
+
+- Romi: Hice la investigación de la aplicación de STM, creo que lo que faltaría es ver que mejoras a partir de los pros que encontré se pueden añadir a nuestro producto.
+  No eh tenido problemas salvo para entender algunos aspectos de la aplicación que me tocó investigar, pero pude resolverlos. Tengo pendiente hacer el pull request.
+
+- Danilo: Investigacion sobre las secciones de que provee la app "como ir", pros, cons. Voy a agregar algunas observaciones de la misma. No tengo ningun bloquer.
+
+- German: Investigacion sobre la app que me habia tocado, pros, cons, requisitos. No tengo bloquer.
+
+- Tomas: Investigacion sobre Moovit, pros, cons, requisitos, me junte con Romi para ver un poco como empezar el backlog pero no empezamos aun.
+
+### Daily 2-10-2022
+
 ## Sprint Review
 
 ## Retrospective
