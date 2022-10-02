@@ -14,15 +14,48 @@ Identificar el problema y definir una solucion al mismo.
 
 <hr>
 
-# Investigacion Nombre de APP
+# Investigacion Moovit
 
 ### Cumple con los requisitos
 
+- Tiene notificaciones
+- No cuenta con login ni registro de usuarios
+- Cuenta con busqueda pero no tiene filtros.
+- Cuenta con mapa en vez de listado, de estaciones cercanas al usuario pero no dice cantidad de usuarios en la linea, solamente recorrido, hora de salida y llegada a destino.
+- Posee historial de lineas recientemente usadas o vistas.
+- Posee modo viaje.
+- Se puede compartir los viajes con otros usuarios.
+
 ### Pros
+
+- Usa localizacion en tiempo real.
+- Se puede setear donde queda el domicilio del usuario.
+- Se puede marcar como favoritas las lineas de bus que el usuario desee.
+- Se puede reportar varias cosas:
+  - La linea estaba llena y no se pudo subir.
+  - La data de la aplicacion era incorrecta.
+  - Estado del servicio.
+- Se puede pedir un Uber desde la app.
+- Se puede buscar por calle a donde se quiera ir, y la app sugiere lineas para llegar al destino.
+- Posee modo oscuro y modo claro.
+- La informacion es clara y concisa.
+- La interfaz es comoda de usar y se entiende.
+- Posee mapa lo cual ayuda a visualizar donde se encuentra el usuario y donde esta el destino.
 
 ### Cons
 
+- Tiene ads requiere de version premium para poder removerlos.
+- Al usar geolocalizacion puede que consuma mucha bateria y datos.
+- No cuenta con mas informacion sobre el historial del usuario
+- No se puede descargar como PDF los datos.
+- No cuenta con traqueo de precios de las lineas.
+- La lista de recientes indica todos los lugares que se propusieron como puntos de destino/origen/favoritos sin importar si se llavo a cabo el viaje.
+
 ### Observaciones
+
+- Muy facil de usar.
+- Intuitiva y facil de navegar
+- Buen diseño
 
 # Investigacion: STM
 
@@ -98,6 +131,7 @@ Identificar el problema y definir una solucion al mismo.
 - No se permiten guardar los viajes hechos previamente, solo las ubicaciones
 
 ### Observaciones
+
 # Investigacion: CityMapper
 
 ### Cumple con los requisitos
@@ -127,11 +161,12 @@ Identificar el problema y definir una solucion al mismo.
 - Permite ver opciones para varios medios de transporte como tren, metro bus, bicicleta, caminata, MetroBus, etc.
 - Permite guardar la ubicacion de un hogar para acceder a rutas facilmente. Tambien permit agregar la ubicacion del trabajo y otros sitios de gran relevancia.
 - Permite monitorear el ahorro de CO2, calorias quemadas y el dinero ahorrado.
+
 ### Cons
 
 - La opcion de pago es muy costosa.
 - No tiene nocion de rutas peligrosas.
-- Todavia no llego al mercado nacional. 
+- Todavia no llego al mercado nacional.
 - No cuenta con la opcion para descargar como pdf o archivo de imagen.
 - No tiene tema dark.
 
@@ -139,5 +174,5 @@ Identificar el problema y definir una solucion al mismo.
 
 - Es muy intuitiva.
 - Es rapida.
-- Es facil aprender a usarla y hacerse un usuario. 
-- De presentarse al mercado nacional va a ser un competidor voraz. 
+- Es facil aprender a usarla y hacerse un usuario.
+- De presentarse al mercado nacional va a ser un competidor voraz.
