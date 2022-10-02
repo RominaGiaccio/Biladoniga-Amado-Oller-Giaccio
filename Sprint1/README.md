@@ -21,6 +21,14 @@ Identificar el problema y definir una solucion al mismo.
 
 ### Daily 2-10-2022
 
+- Romi: Tabaje sobre el backlog creando historias de usuario y priorize el backlog.
+
+- Danilo: Trabaje sobre product backlog con el equipo.
+
+- German: Trabaje sobre product backlog con el equipo.
+
+- Tomas: Trabaje sobre product backlog con el equipo.
+
 ## Sprint Review
 
 ## Retrospective
@@ -189,3 +197,9 @@ Identificar el problema y definir una solucion al mismo.
 - Es rapida.
 - Es facil aprender a usarla y hacerse un usuario.
 - De presentarse al mercado nacional va a ser un competidor voraz.
+
+# Entrevistas
+
+# Product Backlog (Priorizado 1-4)
+
+![image info](./assets/backlog.png)
