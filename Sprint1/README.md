@@ -385,7 +385,7 @@ Joven de 20 años que utiliza ocasionalmente el transporte publico.
 
 # Product Backlog (Priorizado 1-4)
 
-![product backlog stories](./assets/backlog.png)
+![product backlog stories](./assets/backlog.PNG)
 
 ![product backlog epics](./assets/backlogEpics.PNG)
 
