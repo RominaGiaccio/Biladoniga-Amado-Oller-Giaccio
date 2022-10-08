@@ -6,6 +6,9 @@ Identificar el problema y definir una solucion al mismo.
 
 ## Sprint Planning
 
+Definimos que tareas teniamos que hacer, entrevistas, encuestas, etc. Nos dividimos algunas tareas.
+Definimos el marco de SCRUM y que eventos y roles vamos a seguir y/o tomar.
+
 ## Dailies
 
 ### Daily 26-09-2022
@@ -19,19 +22,30 @@ Identificar el problema y definir una solucion al mismo.
 
 - Tomas: Investigacion sobre Moovit, pros, cons, requisitos, me junte con Romi para ver un poco como empezar el backlog pero no empezamos aun.
 
-### Daily 2-10-2022
+### Daily 4-10-2022
 
-- Romi: Tabaje sobre el backlog creando historias de usuario y priorize el backlog.
+- Romi: Trabaje sobre el backlog creando historias de usuario y priorize el backlog. Story Map. Analisis de encuestas y entrevista. Reporte de horas. Retrospective y Review. Creacion de encuestas.
 
-- Danilo: Trabaje sobre product backlog con el equipo.
+- Danilo: Trabaje sobre product backlog con el equipo. Story Map. Analisis de encuestas y entrevista. Reporte de horas. Retrospective y Review.
 
-- German: Trabaje sobre product backlog con el equipo.
+- German: Trabaje sobre product backlog con el equipo. Story Map. Analisis de encuestas y entrevista. Reporte de horas. Retrospective y Review.
 
-- Tomas: Trabaje sobre product backlog con el equipo.
+- Tomas: Trabaje sobre product backlog con el equipo. Story Map. Analisis de encuestas y entrevista. Reporte de horas. Retrospective y Review.
 
 ## Sprint Review
 
+Nos juntamos con el Product Owner para hacer la review.
+
+En esta meeting revisamos el backlog con el PO y fuimos historia a historia hablando de cada una y discutiendo si estabamos de acuerdo entre todos, preguntando (Dev team) al PO sobre las historias para mas claridad sobre cada una.
+
+Obtuvimos feedback y se agregaron nuevas historias de usuario que faltaban, entre ellas descargar el mapa y pago de boletos desde la app.
+
+
 ## Retrospective
+
+Utilizamos metroretro para hacer la retrospective.
+
+![Retrospective](./assets/retro1.png)
 
 <hr>
 
@@ -200,8 +214,191 @@ Identificar el problema y definir una solucion al mismo.
 
 # Entrevistas
 
+### Preguntas 
+- 1 ¿Conoces alguna aplicación para viajar en ómnibus?
+- 2 ¿Usas alguna aplicación para ver tu viaje en ómnibus? 
+- 3 ¿Qué ventajas ves en esta?
+- 4 ¿Qué desventajas ves en esta?
+- 5 ¿Cuales son las funcionalidades más importantes que debería tener
+- 6 ¿Te gustaría poder iniciar sesión con google o permanecer anónimo?
+- 7 ¿Le gustaría que la aplicación permitiera compartir la ubicación de su viaje en tiempo real?
+- 8 ¿Le gustaría que la aplicación tuviera destinos guardados/preferidos?
+- 9 ¿Te interesaría que la aplicación permitiera ver en el mapa los puestos de recarga de boletos?
+- 10 ¿Te interesaría poder enviar comentarios dentro de la aplicación? (Quejas, sugerencias o comentarios en general)
+- 11 ¿Te interesaría que la aplicación tuviera una sección en la cual indique el 
+- 12 ¿Se te dificulta el uso de las aplicaciones? ¿Cómo lo mejorarías?
+- 13 ¿Te gustaría agregar algo más?
+
+## Entrevistas realizadas
+
+### Entrevista 1
+
+Persona de 57 años que viaja frecuentemente en transporte público.
+
+- 1 Si, “Yo iré”.
+- 2 No, utilizo el portal www.montevideo.gub.uy
+- 3 Me permite salir a tomar el bus a la hora que este pasa por mi parada, no necesito esperarlo allí, no estoy tanto en la parada en la madrugada y lo puedo ver desde mi celular.
+- 4 Que a veces los ómnibus no llevan el gps prendido y no sabes cuando van a llegar o el recorrido que vienen haciendo.
+- 5 Me gustaría saber cuál es el horario de salida en pantalla, que 
+saber por qué parada está sin tener que agrandar el mapa.
+- 6 Prefiero el anonimato.
+- 7 Si, sería útil.
+- 8 Si. también.
+- 9 Si claro, porque a veces no tenes un local como abitab cerca, o hay locales-almacenes que no sabes que podes recargar
+- 10 Si, para poder avisar en caso de fallos en el ómnibus.
+- 11 Si, porque a veces no te enteras a tiempo si subió el precio de este o la limitación de las zonas para los boletos locales.
+- 12 Si, pero es la que más uso. Poder poner varios filtros a la vez, ya que a medida que transcurre el día aumenta el número de ómnibus en la calle aumenta y se dificulta visualizar las rutas, pero si pongo un filtro solo me deja ver una línea a la vez.
+- 13 Que te pueda predecir si desde un viaje se puede llegar a alcanzar otro ómnibus.
+
+
+### Entrevista 2
+
+Joven de 21 años que viaja en transporte publico ocasionalmente.
+
+- 1 Conozco un par, Moovit y STM, alguna más debe haber en la vuelta
+- 2 Si, uso Moovit por lo general. También probé STM pero a efectos prácticos es casi lo mismo. 
+- 3 Es muy intuitiva y de conocida procedencia, literalmente todo le mundo la usa. 
+- 4 Que en mi celular se tranca bastante y no puedo comprarme otro. Además, hay líneas interdepartamentales que no aparecen, y a mi que soy de Canelones me afecta bastante esto.
+- 5 Mostrar todas las líneas de ómnibus disponibles y tener un GPS y un mapa para llevarte a la parada mas cercana. 
+- 6 Prefiero permanecer anónimo, una sesión de Google no aporta nada en una aplicación de bondi. 
+- 7 Si, mas que nada para que la familia se quede tranquila de donde esta uno.
+- 8 Si, casa, trabajo y facultad.
+- 9 Estaría bueno, así uno si se pierde sabe dónde cargar los boletos.
+- 10 La verdad no, nunca uso esa opción en ninguna aplicación, tampoco creo que nadie se ponga a leer verdaderamente las sugerencias. 
+- 11 Si, a veces el boleto aumenta de sorpresa y capaz que justo andas con poca plata. Esta bueno ahorrarse estos inconvenientes.
+- 12 No, son todas bastante intuitivas. Como dije antes, se trancan mucho. Las haría más rápidas. 
+- 13 Si, que las apps todas me gastan mucha batería y tengo que ir abriéndolas y cerrándolas durante el recorrido.
+
+### Entrevista 3
+
+Joven de 20 años que utiliza ocasionalmente el transporte publico.
+
+- 1 Si, STM, Moovit, Comoir.
+- 2 Si, Moovit.
+- 3 Lineas favoritas.
+- 4 No siempre tiene ubicación en tiempo real.
+- 5 Todas las lineas, valor del boleto, frecuencia.
+- 6 Me da lo mismo.
+- 7 Si.
+- 8 Si.
+- 9 Si.
+- 10 Si, creo que si.
+- 11 Si, me encantaría.
+- 12 Si, sacandole los anuncios.
+- 13 No.
+
+# Resultados Encuesta
+
+![encuesta 1](./assets/encuesta/Encuesta%201.png)
+
+![encuesta 2](./assets/encuesta/Encuesta%202.png)
+
+![encuesta 3](./assets/encuesta/Encuesta%203.png)
+
+![encuesta 4](./assets/encuesta/Encuesta%204.png)
+
+![encuesta 5](./assets/encuesta/Encuesta%205.png)
+
+![encuesta 6](./assets/encuesta/Encuesta%206.png)
+
+![encuesta 7](./assets/encuesta/Encuesta%207.png)
+
+![encuesta 8](./assets/encuesta/Encuesta%208.png)
+
+![encuesta 9](./assets/encuesta/Encuesta%209.png)
+
+![encuesta 10](./assets/encuesta/Encuesta%2010.png)
+
+![encuesta 11](./assets/encuesta/Encuesta%2011.png)
+
+![encuesta 12](./assets/encuesta/Encuesta%2012.png)
+
+![encuesta 13](./assets/encuesta/Encuesta%2013.png)
+
+![encuesta 14](./assets/encuesta/Encuesta%2014.png)
+
+
+
+# Lista de interesados
+
+- Jovenes estudiantes (Menores de 30)
+- Adultos mayores (Mayores de 51)
+- Frecuentadores de transporte publico (30-50)
+
+# Funcionalidad por interesado
+
+* Las funcionalidades que interesan a todas las edades son:
+  * Notificación sobre desvíos
+  * Activar y desactivar las notificaciones
+  * Notificaciones sobre retrasos en la línea
+  *	Notificación sobre línea por llegar a destino
+  *	Historias de los últimos viajes
+  *	Listado de las líneas más cercanas al usuario con información
+  *	Buscar línea de ómnibus utilizando filtros
+  *	Restaurar contraseñas
+  *	Listado de las líneas más cercanas al usuario con información
+  *	Buscar línea de ómnibus utilizando filtros
+  *	Guardado de destinos
+  *	Modo viaje
+  *	Tracking de precio de boletos
+  *	Configurar cantidad de notificaciones a recibir.
+
+* Las funcionalidades que interesan a sujetos de entre menores y 30 años son:
+  *	Configurar medio para recibir las notificaciones
+  *	Notificación sobre línea perdida
+  *	Notificación sobre línea por llegar a parada
+  *	Notificación sobre problemas en la línea
+  *	Comentarios y reportes
+  *	Compartir viaje con otro usuario
+  *	Editar usuario
+  *	Registro de cuenta 
+  *	Inicio de sesión
+  *	Recargar boletos desde la app.
+
+* Las funcionalidades que involucran a sujetos de entre 30 y 50 años son:
+  *	Notificación sobre línea perdida
+  *	Descarga mapa de viaje
+  *	Notificaciones sobre tiempo de espera sobre la línea
+  *	Notificación sobre problemas en la línea
+  *	Notificación sobre desvíos
+  *	Comentarios y reportes
+  *	Editar usuario
+  *	Registro de cuenta 
+  *	Inicio de sesión
+  *	Recargar boletos desde la app.
+
+* Las funcionalidades que interesan a sujetos mayores de 51 años son:
+  *	Descarga mapa de viaje.
+  *	Configurar sonido y volumen de las notificaciones.
+  *	Notificación sobre línea por llegar a parada.
+  *	Notificación sobre problemas en la línea.
+  *	Tracking de precio de boletos.
+  *	Sección de tarjetas especiales.
+  *	Mapa para recarga de boletos y puestos STM.
+
+
+# Story Map
+
+[Story Map](https://miro.com/app/board/uXjVPP7CXlM=/?share_link_id=835092374517)
+
+![Story Map Image](./assets/Story%20Map.png)
+
 # Product Backlog (Priorizado 1-4)
 
-![product backlog stories](https://github.com/RominaGiaccio/Biladoniga-Amado-Oller-Giaccio/blob/dev/Sprint1/assets/backlog.PNG)
+![product backlog stories](./assets/backlog.png)
 
-![product backlog epics](https://github.com/RominaGiaccio/Biladoniga-Amado-Oller-Giaccio/blob/dev/Sprint1/assets/backlogEpics.PNG)
+![product backlog epics](./assets/backlogEpics.PNG)
+
+
+# Historia de Usuario y Criterios de Aceptacion
+
+### Ejemplo:
+
+![ejemplo user story](./assets/userStory.png)
+
+
+# Reporte de horas
+
+[Reporte de horas](https://docs.google.com/spreadsheets/d/1Kh862NqWlY94nU2gIDmNjZJNJ3PDnCxO8ejniM3c5-s/edit?usp=sharing)
+
+
