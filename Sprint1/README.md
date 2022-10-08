@@ -315,7 +315,7 @@ Joven de 20 años que utiliza ocasionalmente el transporte publico.
 
 ![encuesta 13](./assets/encuesta/Encuesta%2013.png)
 
-![encuesta 14](./assets/encuesta/Encuesta%2014.png)
+![encuesta 14](./assets/encuesta/Encuesta%2014.jpeg)
 
 
 
