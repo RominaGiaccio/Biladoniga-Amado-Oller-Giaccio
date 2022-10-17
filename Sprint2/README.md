@@ -335,15 +335,15 @@ Joven de 20 años que utiliza ocasionalmente el transporte publico.
 
 * Las personas que respondieron las encuestas que más suelen utilizar este tipo de aplicaciones se encuentran entre los 19 y 30 años de edad. Siendo seguidos en menor proporción tanto por las edades entre 31 y 40 años como por los mayores de 51 años, ademas en la entrevista realizada se dejo ver que existen personas de edad avanzada que suelen usar estas aplicaciones. Por esta razon nos centramos en estos rangos de edades como público objetivo.
 * La gran mayoría de los encuestados utilizó en el pasado, usa ocasionalmente o muy seguido una aplicación de transporte público. Las aplicaciones STM y Moovit son unas de las más conocidas. De estas obtenemos gran referencia para nuestra propia aplicación como por ejemplo:  
-- STM : 
-- Muestra en el mapa ubicaciones de locales para descargar la tarjeta stm
-- Permite ver el saldo de la tarjeta (login en saldos y beneficios)
-- Cuenta con bandeja de notificaciones donde se pueden avisos de horarios especiales
-- Se pueden deshabilitar las notificaciones
-- MOOVIT:
-- Se puede reportar varias
-- Posee mapa lo cual ayuda a visualizar donde se encuentra el usuario y donde esta el destino.
-- Intuitiva y facil de navegar
+  -  STM : 
+    - Muestra en el mapa ubicaciones de locales para descargar la tarjeta stm
+    - Permite ver el saldo de la tarjeta (login en saldos y beneficios)
+    - Cuenta con bandeja de notificaciones donde se pueden avisos de horarios especiales
+    - Se pueden deshabilitar las notificaciones
+  - MOOVIT:
+    - Se puede reportar varias
+    - Posee mapa lo cual ayuda a visualizar donde se encuentra el usuario y donde esta el destino.
+    - Intuitiva y facil de navegar
 * Cerca de un cuarto de los encuestados afirmó presentar dificultades en el manejo de una aplicación de esta índole, ademas el entrevistado de mayor edad confirmo estas dificultades. Por lo cual trataremos de que nuestro disenio sea lo mas intuitivo posible.
 * Más del 60% de los encuestados les gustaría tener la posibilidad de utilizar la aplicación de forma anónima y más del 40% de los encuestados les gustaría tener la posibilidad de utilizar la aplicación iniciando sesión con su cuenta de google. Por lo tanto se agregaron estas posibilidades.
 * La mayor parte de los encuestados y todos los entrevistados consideraron que las funcionalidades de compartir la ubicación de su viaje en tiempo real, así como tener destinos favoritos son funcionalidades útiles, ademas es un pro encontrado en la mayor parte de las apps investigadas. Por lo cual estas dos funcionalidades se agregaron.
