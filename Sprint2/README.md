@@ -80,7 +80,7 @@ Utilizamos metroretro para hacer la retrospective.
 - Se puede marcar como favoritas las lineas de bus que el usuario desee.
 - Se puede reportar varias cosas:
   - La linea estaba llena y no se pudo subir.
-  - La data de la aplicacion era incorrecta.
+  - La data de la aplicación era incorrecta.
   - Estado del servicio.
 - Se puede pedir un Uber desde la app.
 - Se puede buscar por calle a donde se quiera ir, y la app sugiere lineas para llegar al destino.
@@ -113,13 +113,13 @@ Utilizamos metroretro para hacer la retrospective.
 - No contiene historial de viajes (Solo de omnibus tomados, como un filtro)
 - No cuenta con modo viaje
 - Se puede compartir el viaje en forma de screenshots y mediante otras aplicaciones de mensajeria instantanea mas utilizadas
-- Esta disponible para android desde la aplicacion de PlayStore
+- Esta disponible para android desde la aplicación de PlayStore
 - No cuenta con informacion de la cantidad de pasajeros en los vehiculos
 - No cuenta con notificaciones del viaje
 
 ### Pros
 
-- La primera vez que se abre la aplicacion contiene un pequeño tutorial.
+- La primera vez que se abre la aplicación contiene un pequeño tutorial.
 - Se puede compartir como vinculo y por las principales aplicaciones de mensajeria.
 - Muestra en el mapa ubicaciones de locales para descargar la tarjeta stm.
 - Permite ver el saldo de la tarjeta (login en saldos y beneficios)
@@ -188,7 +188,7 @@ Utilizamos metroretro para hacer la retrospective.
 - No contiene historial de viajes (Solo de omnibus tomados, como un filtro)
 - Cuenta con modo viaje
 - Se puede compartir el viaje en forma de screenshots y mediante otras aplicaciones de mensajeria instantanea mas utilizadas
-- Esta disponible para android desde la aplicacion de PlayStore
+- Esta disponible para android desde la aplicación de PlayStore
 - No cuenta con informacion de la cantidad de pasajeros en los vehiculos
 - Cuenta con notificaciones del viaje
 
@@ -347,11 +347,11 @@ Joven de 20 años que utiliza ocasionalmente el transporte publico.
 * Cerca de un cuarto de los encuestados afirmó presentar dificultades en el manejo de una aplicación de esta índole, ademas el entrevistado de mayor edad confirmo estas dificultades. Por lo cual trataremos de que nuestro disenio sea lo mas intuitivo posible.
 * Más del 60% de los encuestados les gustaría tener la posibilidad de utilizar la aplicación de forma anónima y más del 40% de los encuestados les gustaría tener la posibilidad de utilizar la aplicación iniciando sesión con su cuenta de google. Por lo tanto se agregaron estas posibilidades.
 * La mayor parte de los encuestados y todos los entrevistados consideraron que las funcionalidades de compartir la ubicación de su viaje en tiempo real, así como tener destinos favoritos son funcionalidades útiles, ademas es un pro encontrado en la mayor parte de las apps investigadas. Por lo cual estas dos funcionalidades se agregaron.
-* La sección para ver precios de boletos así como la funcionalidad de ver puestos de recarga en el mapa fueron mayoritariamente aceptadas por los encuestados y entrevistados. Se agrego la posibilidad de realizar estas actividades dentro de la aplicacion.
-* La funcionalidad de recarga de boletos dentro de la aplicacion fue mayoritariamente aceptada por los encuestados, sumado a que algunos encuestados añadieron la necesidad de tener tarjetas de pago dentro de la aplicación para poder cargar boletos desde allí nos llevo a contemplar esta opcion dentro de las funcionalidades de nuestra aplicacion.
+* La sección para ver precios de boletos así como la funcionalidad de ver puestos de recarga en el mapa fueron mayoritariamente aceptadas por los encuestados y entrevistados. Se agrego la posibilidad de realizar estas actividades dentro de la aplicación.
+* La funcionalidad de recarga de boletos dentro de la aplicación fue mayoritariamente aceptada por los encuestados, sumado a que algunos encuestados añadieron la necesidad de tener tarjetas de pago dentro de la aplicación para poder cargar boletos desde allí nos llevo a contemplar esta opcion dentro de las funcionalidades de nuestra aplicación.
 * Sobre las notificaciones, más del 90% de los encuestados desea tener la posibilidad de realizar ajustes sobre las mismas, ademas como indican que le molestan los anuncios esta funcionalidad agregaria valor.
-* En la primer pantalla de la aplicación la mayor parte de los encuestados quiere visualizar la opción para realizar un nuevo viaje y la siguiente es visualizar el mapa, es por esto que consideraremos estas dos opciones para el inicio de la aplicacion.
-* Envio de comentarios, la mayoria de los entrevistados y mas del 60% de los encuestados estan a favor de poder enviar comentarios o quejas dentro de la aplicacion. Esto se tomara en cuenta para la implementacion.
+* En la primer pantalla de la aplicación la mayor parte de los encuestados quiere visualizar la opción para realizar un nuevo viaje y la siguiente es visualizar el mapa, es por esto que consideraremos estas dos opciones para el inicio de la aplicación.
+* Envio de comentarios, la mayoria de los entrevistados y mas del 60% de los encuestados estan a favor de poder enviar comentarios o quejas dentro de la aplicación. Esto se tomara en cuenta para la implementacion.
 
 # Descripcion de interesados
 
