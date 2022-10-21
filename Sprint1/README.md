@@ -71,6 +71,8 @@ Utilizaremos GitFlow como estrategia de branching con un leve cambio, agregamos 
 
 - bug/X - Fix de bug sobre historia X.
 
+- document/X - Documentación nueva/modificada.
+
 ## Estategias de Pull request
 
 Seguiremos la siguiente estrategia para los pull requests, y al final de cada sprint se creara un pull request de <strong>dev</strong> a <strong>main</strong> para pushear los cambios realizados sobre la iteración.
@@ -81,11 +83,21 @@ Seguiremos la siguiente estrategia para los pull requests, y al final de cada sp
 
 - bug/X - Fix de bug sobre historia X.
 
+- document/X - Documentación actualizada.
+
 ## Politicas de Trabajo
 
 ### Definition of Ready
 
-Consideraremos que una Historia de Usuario estará lista para desarrollarese cuando cumpla con el criterio INVEST: Independiente, Negociable, Valiosa, Estimable, Corta (Short) y Testeable.
+Consideraremos que una Historia de Usuario estará lista para desarrollarese cuando cumpla con las siguientes consideraciones:
+
+- La misma este bien definida.
+
+- Criterios de aceptación definidos.
+
+- La persona encargada de trabajar en la misma debe estar asignada.
+
+Además de esto debe cumplir con el criterio INVEST: Independiente, Negociable, Valiosa, Estimable, Corta (Short) y Testeable.
 
 Es decir, para que una Historia de Usuario sera incluida en el siguiente Sprint por el equipo de desarrollo debe presentar las siguientes características:
 
@@ -106,6 +118,12 @@ Es decir, para que una Historia de Usuario sera incluida en el siguiente Sprint 
 Consideraremos que una Historia de Usuario estará terminada cuando cumpla con las siguientes caracteristicas:
 
 - Existencia de prototipo sobre la Historia de Usuario.
+
+- Se debe cumplir con el requerimiento funcional del negocio y criterios de aceptación.
+
+- No deben existir defectos conocidos.
+
+- Debe estar integrada con el resto del prototipo.
 
 - Review sobre los cambios realizados por al menos 2 reviewers.
 
