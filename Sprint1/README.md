@@ -465,7 +465,7 @@ Joven de 20 años que utiliza ocasionalmente el transporte publico.
 
 * Las personas que respondieron las encuestas que más suelen utilizar este tipo de aplicaciones se encuentran entre los 19 y 30 años. Siendo seguidos en menor proporción tanto por las edades entre 31 y 40 años como por los mayores de 51 años, además en la entrevista realizada se dejó ver que existen personas de edad avanzada que suelen usar estas aplicaciones. Por esta razón nos centramos en estos rangos de edades como público objetivo.
 * La gran mayoría de los encuestados utilizó en el pasado, usa ocasionalmente o muy seguido una aplicación de transporte público. Las aplicaciones STM y Moovit son unas de las más conocidas. De estas obtenemos gran referencia para nuestra propia aplicación como, por ejemplo:  
-  -  STM : 
+  -  STM :
     - Muestra en el mapa ubicaciones de locales para descargar la tarjeta STM
     - Permite ver el saldo de la tarjeta (Loguin en saldos y beneficios)
     - Cuenta con bandeja de notificaciones donde se pueden avisos de horarios especiales
