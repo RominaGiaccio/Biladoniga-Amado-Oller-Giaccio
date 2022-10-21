@@ -1,3 +1,134 @@
+## Eventos SCRUM
+
+Sprint Planning - Primer Viernes despues del comienzo del Sprint alrededor de 17:30.
+
+El Sprint Planning es una reunión que se realiza al comienzo de cada Sprint donde participa
+el equipo Scrum al completo; sirve para inspeccionar el Product Backlog y que el equipo de 
+desarrollo seleccione las historias de usuario en los que va a trabajar durante el siguiente Sprint.
+Estas historias son los que compondrán el Sprint Backlog.
+
+Daily - Lunes, Miercoles y Viernes por Whatsapp a las 13:00.
+
+La Daily es una reunión recurrente de aproximadamente 15 minutos en la que participa exclusivamente el Development Team.
+
+En esta reunión todas y cada una de las personas del Development Team responden a las siguientes preguntas:
+
+¿Qué hice ayer para contribuir al Sprint Goal?
+¿Qué voy a hacer hoy para contribuir al Sprint Goal?
+¿Tengo algún impedimento que me impida entregar?
+
+Sprint Review - El día antes a la entrega. (Sábado o Domingo)
+
+La Sprint Review es una reunión en la cual el Development team muestra al Product Owner el incremento realizado en el sprint actual
+y el Product Owner puede dar feedback sobre las tareas realizadas.
+
+Esta reunión ocurre al final del Sprint y antes de la retrospective.
+
+Sprint Retrospective - El día antes a la entrega. (Sábado o Domingo).
+Utilizaremos [Metroretro](https://metroretro.io/) como herramienta para las restrospectivas.
+
+La Sprint Retrospective es una reunión en la cual el Development team analiza su actuación y desempeño durante el Sprint
+en busca de mejorar para el proximo Sprint. 
+
+En esta generalmente se utilizan herramientas como Metroretro que le permiten al equipo participar de forma anónima
+y poder compartir las diferentes opiniones sobre los resultados y/o problemas que tuvieron en el Sprint.
+
+Esta reunión ocurre al final del Sprint generalmente sucede después de la Sprint Review.
+
+## Roles
+
+- Scrum Master - Tomas
+    El rol incluye liderar al equipo en el marco de SCRUM, 
+    permitiendo mejorar la agilidad del mismo para una entrega de mejor valor al cliente.
+
+    Este debe la responsabilidad de que se sigan las practicas de SCRUM y sus principios.
+
+- Product Owner - Romina
+    El rol incluye encargarse de crear las historias de usuario junto al equipo de desarrollo,
+    aclarar dudas respecto al producto y que historia brinda valor.
+
+    También este se encarga de priorizar el Product Backlog para poder tomar las historias para
+    las siguientes iteraciones, y que estas brinden el mayor valor posible.
+
+    También se encarga, no unicamente, de validar que estas historias esten completas y que el
+    objetivo del sprint se haya cumplido, esto sucede en la Sprint Review.
+
+- Development Team - Todos
+    Encargados de toda la parte que sea desarrollo y asimismo también participaran de los eventos
+    de SCRUM.
+
+## Estategias de branching
+
+Utilizaremos GitFlow como estrategia de branching con un leve cambio, agregamos un nuevo tipo de rama llamada <strong>bug/X</strong> para diferenciar los bugs de los hotfixes.
+
+- Main - Rama principal.
+
+- Dev - Rama de desarollo. Esta sera la rama donde se mergeara los cambios realizados para cada iteracion.
+
+- feature/X - Feature sobre historia X a desarollar.
+
+- hotfix/X - Hotfix sobre historia X ya desarollada.
+
+- bug/X - Fix de bug sobre historia X.
+
+- document/X - Documentación nueva/modificada.
+
+## Estategias de Pull request
+
+Seguiremos la siguiente estrategia para los pull requests, y al final de cada sprint se creara un pull request de <strong>dev</strong> a <strong>main</strong> para pushear los cambios realizados sobre la iteración.
+
+- feature/X - Feature sobre historia X a desarrollar.
+
+- hotfix/X - Hotfix sobre historia X ya desarrollada.
+
+- bug/X - Fix de bug sobre historia X.
+
+- document/X - Documentación actualizada.
+
+## Politicas de Trabajo
+
+### Definition of Ready
+
+Consideraremos que una Historia de Usuario estará lista para desarrollarese cuando cumpla con las siguientes consideraciones:
+
+- La misma este bien definida.
+
+- Criterios de aceptación definidos.
+
+- La persona encargada de trabajar en la misma debe estar asignada.
+
+Además de esto debe cumplir con el criterio INVEST: Independiente, Negociable, Valiosa, Estimable, Corta (Short) y Testeable.
+
+Es decir, para que una Historia de Usuario sera incluida en el siguiente Sprint por el equipo de desarrollo debe presentar las siguientes características:
+
+- Independiente: no tendrá dependencias con otras historias que pudieran impedir su desarrollo. Por tanto, si para que la funcionalidad A sea posible es necesario tener la B, entonces la historia A no es independiente.
+
+- Negociable: debe permitir espacio para la discusión con el Product Owner.
+
+- Valiosa: debe aportar valor al cliente. Cumpliendo este criterio evitas desarrollar algo inútil.
+
+- Estimable: puede ser estimada por el DevTeam (en tamaño relativo, en puntos de historia, etc).
+
+- Corta: debe poder terminarse durante el Sprint. Si se encuentra una Historia demasiado grande, eso exige al Product Owner que la subdivida en varias Historias más pequeñas.
+
+- Testeable: la Historia en su descripción debe contar con la información suficiente como para poder ser probada.
+
+### Definition of Done
+
+Consideraremos que una Historia de Usuario estará terminada cuando cumpla con las siguientes caracteristicas:
+
+- Existencia de prototipo sobre la Historia de Usuario.
+
+- Se debe cumplir con el requerimiento funcional del negocio y criterios de aceptación.
+
+- No deben existir defectos conocidos.
+
+- Debe estar integrada con el resto del prototipo.
+
+- Review sobre los cambios realizados por al menos 2 reviewers.
+
+- Documentacion actualizada sobre los cambios realizados.
+
 # Sprint 1
 
 ## Objetivo del Sprint
