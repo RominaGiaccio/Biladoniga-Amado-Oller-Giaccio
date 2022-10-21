@@ -46,7 +46,7 @@ Tengo planeado terminar de documentar el análisis de resultado de entrevista, e
 
 - German: 
 
-- Tomas: 
+- Tomas: Trabaje sobre las historia 29, 28, 22, 20 y 30 (Configuracion de volumen notificaciones, configuracion medio nofitificaciones, configuracion cantidad nofitificaciones, activar/desactivar notificaciones y descargar mapa viaje).
 
 ## Sprint Review
 
