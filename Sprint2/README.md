@@ -22,7 +22,7 @@ Tengo planeado terminar de documentar el análisis de resultado de entrevista, e
 
 [Dailies Sprint 2](./Dailies.md)
 
-## Verificaciones con usuarios
+## Validacion Prototipo con usuarios
 
 ### Contexto de las pruebas
 
@@ -90,10 +90,44 @@ RE: “Entendí bastante bien, pero me faltaría algún texto para saber en que 
 
 RE: “No entendí mucho como se dónde están las paradas, me aparecieron datos de cuenta aunque entre de forma anónima, aparte de eso me gusta, si bien pienso que le falta texto, esta bueno que no sea mucho así las personas como yo que vemos menos podemos usarla sin tanto problema.”
 
+### REVISIÓN 1: 20 años
+
+- Flujo realizado por la persona:
+
+La persona ingresó a la aplicación registrando al finalizar el registro se logeo, donde llego al mapa intento ir a configuraciones donde desactivo las notificaciones. Luego volvio al mapa, donde intento mover el mapa y volver a centrarlo. Comento que el mapa no se veia bien en cuanto a la resolución. Intento editar el usuario, no pudo cambiar la fecha. Pudo cerrar sesion y iniciar nuevamente. Al ir al mapa estuvo problemas al intentar iniciar un viaje, pero luego pudo iniciar el viaje correctamente. Bajo el mapa y finalmente fue a modo viaje donde noto que la pagina estaba vacia.
+ 
+- ¿Qué funcionalidades entiende que realiza? 
+
+RE: “Pude iniciar sesión, iniciar un viaje, cambiar la configuración de notificaciones, ver el mapa con la ubicación actual. También se puede editar el perfil de usuario y cerrar la sesión.”
+
+- ¿Le parece que se cumplen? 
+
+* Inicio de sesión tanto como por Google, iCloud y Usuario y Email, la funcionalidad se cumple. (Considera que se cumple, pero no noto la funcionalidad de anónimo)
+* Permitir registrarse en la aplicación / crearse una cuenta que no sea con el correo de google (Considera que se cumple)
+* Edición del perfil del usuario y sus datos (Considera que se cumple)
+* Presentar la opción de un mapa con la ubicación actual del usuario y un vistazo de cómo se realizará la consulta para iniciar viajes ingresando origen y destino (Considera que se cumple parcialmente, tuvo problemas al elegir el origen y destino, y comentó que el mapa se ve mal)
+* Mostrar la navegación que tendrá la app a todas las ventanas de la aplicación (Considera que se cumple)
+
+- ¿Qué opina de los colores seleccionados, le pareció agradable a la vista? 
+
+RE: “Los colores me parecen correctos, le dan una imagen minimalista a la aplicación”
+
+- ¿Cómo le resultó la navegación? (registrar respuestas)
+
+RE: “Sintió que algunas cosas estaban medio escondidas, y que otras no se entendia como realizarlas.”
+
+- ¿Tiene algo para comentar/agregar? (registrar respuestas)
+
+RE: “Dado que es un prototipo, me parece que está acertado, pero me hubiese gustado que se pueda escribir en los inputs y que algunas interacciones se cumplan.”
+
+[Validacion Usuarios](./assets/validacion%20usuario.MP4)
 
 ## Sprint Review
 
 
+![Burndown Chart](./assets/burndown%20chart.png)
+
+![Velocity Chart](./assets/velocity%20chart.png)
 
 ## Retrospective
 
