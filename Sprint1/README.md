@@ -165,6 +165,17 @@ Utilizamos metroretro para hacer la retrospective.
 
 <hr>
 
+### Reflexión de la retro y oportunidades de mejora
+  Durante la retrospectiva los resultados demostraron que el equipo estuvo de acuerdo en que la principal problemática presentada fue la falta de tiempo, se consideró la causa que produjo este problema y las reflexiones a partir de esto fueron las siguientes:
+
+  * La falta de tiempo está ligada a que somos un grupo de 4 personas que trabajan y estudian, lo cual no es algo que se pueda modificar, se consideraron como factores sobre los que no se puede actuar. 
+  * La falta de tiempo también está ligada a la organización de las diferentes tareas de los integrantes del equipo.
+
+	En esta segunda instancia para resolver estas problemáticas se planteó como mejora separar el trabajo de forma de que cada integrante tenga al menos una tarea en la que pueda avanzar en paralelo con respecto al resto del equipo, lo cual hace más posible que cada integrante pueda acomodar este trabajo a su horario personal. 
+  Otra solución propuesta es que las reuniones a las que puedan asistir todos los integrantes del equipo se enfoquen en aquellas actividades que los requieren a todos, realizando más reuniones de una duración menor, 1 hora como máximo.
+
+  Por otra parte, se analizaron aspectos positivos del equipo, como el apoyo entre los integrantes, la sincronía de pensamiento y compromiso en la participación de cada instancia.
+  
 # Investigacion Moovit
 
 ### Cumple con los requisitos
@@ -433,13 +444,40 @@ Joven de 20 años que utiliza ocasionalmente el transporte publico.
 
 ![encuesta 14](./assets/encuesta/Encuesta%2014.jpeg)
 
+# Análisis de resultados de investigación
 
+## Los principales resultados obtenidos en las investigaciones realizadas fueron:
 
-# Lista de interesados
+* Las personas que respondieron las encuestas que más suelen utilizar este tipo de aplicaciones se encuentran entre los 19 y 30 años. Siendo seguidos en menor proporción tanto por las edades entre 31 y 40 años como por los mayores de 51 años, además en la entrevista realizada se dejó ver que existen personas de edad avanzada que suelen usar estas aplicaciones. Por esta razón nos centramos en estos rangos de edades como público objetivo.
+* La gran mayoría de los encuestados utilizó en el pasado, usa ocasionalmente o muy seguido una aplicación de transporte público. Las aplicaciones STM y Moovit son unas de las más conocidas. De estas obtenemos gran referencia para nuestra propia aplicación como, por ejemplo:  
+  -  STM :
+    - Muestra en el mapa ubicaciones de locales para descargar la tarjeta STM
+    - Permite ver el saldo de la tarjeta (Loguin en saldos y beneficios)
+    - Cuenta con bandeja de notificaciones donde se pueden avisos de horarios especiales
+    - Se pueden deshabilitar las notificaciones
+  - MOOVIT:
+    - Se puede reportar varias
+    - Posee mapa lo cual ayuda a visualizar donde se encuentra el usuario y donde esta el destino.
+    - Intuitiva y fácil de navegar
+* Cerca de un cuarto de los encuestados afirmó presentar dificultades en el manejo de una aplicación de esta índole, además el entrevistado de mayor edad confirmo estas dificultades. Por lo cual trataremos de que nuestro diseño sea lo más intuitivo posible.
+* Más del 60% de los encuestados les gustaría tener la posibilidad de utilizar la aplicación de forma anónima y más del 40% de los encuestados les gustaría tener la posibilidad de utilizar la aplicación iniciando sesión con su cuenta de google. Por lo tanto, se agregaron estas posibilidades.
+* La mayor parte de los encuestados y todos los entrevistados consideraron que las funcionalidades de compartir la ubicación de su viaje en tiempo real, así como tener destinos favoritos son funcionalidades útiles, además es un pro encontrado en la mayor parte de las apps investigadas. Por lo cual estas dos funcionalidades se agregaron.
+* La sección para ver precios de boletos, así como la funcionalidad de ver puestos de recarga en el mapa fueron mayoritariamente aceptadas por los encuestados y entrevistados. Se agrego la posibilidad de realizar estas actividades dentro de la aplicación.
+* La funcionalidad de recarga de boletos dentro de la aplicación fue mayoritariamente aceptada por los encuestados, sumado a que algunos encuestados añadieron la necesidad de tener tarjetas de pago dentro de la aplicación para poder cargar boletos desde allí nos llevó a contemplar esta opción dentro de las funcionalidades de nuestra aplicación.
+* Sobre las notificaciones, más del 90% de los encuestados desea tener la posibilidad de realizar ajustes sobre las mismas, además como indican que le molestan los anuncios esta funcionalidad agregaría valor.
+* En la primera pantalla de la aplicación la mayor parte de los encuestados quiere visualizar la opción para realizar un nuevo viaje y la siguiente es visualizar el mapa, es por esto por lo que consideraremos estas dos opciones para el inicio de la aplicación.
+* Envío de comentarios, la mayoría de los entrevistados y más del 60% de los encuestados están a favor de poder enviar comentarios o quejas dentro de la aplicación. Esto se tomará en cuenta para la implementación.
 
-- Jovenes estudiantes (Menores de 30)
-- Adultos mayores (Mayores de 51)
-- Frecuentadores de transporte publico (30-50)
+# Descripción de interesados
+
+## Los grupos de interesados constan de:
+
+### Jóvenes adultos y estudiantes: 
+  Este grupo engloba todos los jóvenes y/o estudiantes menores de 30 años, los cuales suelen frecuentar los transportes públicos como medio de locomoción al estudio o trabajo, además suelen ser más activos y salir más seguido en toda la franja horaria del día. También se considera que son el rango que más podría utilizar la aplicación debido a su afinidad con la tecnología.
+### Adultos y frecuentadores de transporte público: 
+  Este grupo comparte varias de las características del grupo anterior, pero se enfoca en una edad más madura de 30 a 50 años, donde existe familiaridad con la tecnología, pero en algunos casos más restringida que en edades inferiores. Muchos adultos en esta edad tienen vehículo propio, pero nos enfocamos en aquella gran parte de la población que se transporta toda su vida en transporte público. 
+### Adultos mayores: 
+  Este grupo involucra a todos los mayores de 51 años capaces de manejar una aplicación básica, este grupo es más reducido debido a que a mayor edad existe una menor afinidad con la tecnología. Existen personas que cuentan con beneficios para viajar en transporte público y los frecuentan, involucrando también a antiguos conductores que debido a su edad o por alguna incapacidad prefieren este tipo de transporte. Es posible que estas personas prefieren tener todo lo referido a su viaje en una sola aplicación y no buscar en internet u otras aplicaciones y sin duda se verían beneficiados al tener opciones offline. 
 
 # Funcionalidad por interesado
 
@@ -459,7 +497,7 @@ Joven de 20 años que utiliza ocasionalmente el transporte publico.
   *	Tracking de precio de boletos
   *	Configurar cantidad de notificaciones a recibir.
 
-* Las funcionalidades que interesan a sujetos de entre menores y 30 años son:
+* Las funcionalidades que interesan a sujetos de entre menores y 30 años (Jóvenes adultos y estudiantes) son:
   *	Configurar medio para recibir las notificaciones
   *	Notificación sobre línea perdida
   *	Notificación sobre línea por llegar a parada
@@ -471,7 +509,7 @@ Joven de 20 años que utiliza ocasionalmente el transporte publico.
   *	Inicio de sesión
   *	Recargar boletos desde la app.
 
-* Las funcionalidades que involucran a sujetos de entre 30 y 50 años son:
+* Las funcionalidades que involucran a sujetos de entre 30 y 50 años (Adultos y frecuentadores de transporte público) son:
   *	Notificación sobre línea perdida
   *	Descarga mapa de viaje
   *	Notificaciones sobre tiempo de espera sobre la línea
@@ -483,7 +521,7 @@ Joven de 20 años que utiliza ocasionalmente el transporte publico.
   *	Inicio de sesión
   *	Recargar boletos desde la app.
 
-* Las funcionalidades que interesan a sujetos mayores de 51 años son:
+* Las funcionalidades que interesan a sujetos mayores de 51 años (Adultos mayores) son:
   *	Descarga mapa de viaje.
   *	Configurar sonido y volumen de las notificaciones.
   *	Notificación sobre línea por llegar a parada.
