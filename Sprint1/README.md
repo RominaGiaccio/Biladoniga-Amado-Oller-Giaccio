@@ -17,23 +17,23 @@ En esta reunión todas y cada una de las personas del Development Team responden
 ¿Qué voy a hacer hoy para contribuir al Sprint Goal?
 ¿Tengo algún impedimento que me impida entregar?
 
-Sprint Review - El dia antes a la entrega. (Sabado o Domingo)
+Sprint Review - El día antes a la entrega. (Sábado o Domingo)
 
 La Sprint Review es una reunión en la cual el Development team muestra al Product Owner el incremento realizado en el sprint actual
 y el Product Owner puede dar feedback sobre las tareas realizadas.
 
-Esta reunion ocurre al final del Sprint y antes de la retrospective.
+Esta reunión ocurre al final del Sprint y antes de la retrospective.
 
-Sprint Retrospective - El dia antes a la entrega. (Sabado o Domingo).
+Sprint Retrospective - El día antes a la entrega. (Sábado o Domingo).
 Utilizaremos [Metroretro](https://metroretro.io/) como herramienta para las restrospectivas.
 
 La Sprint Retrospective es una reunión en la cual el Development team analiza su actuación y desempeño durante el Sprint
 en busca de mejorar para el proximo Sprint. 
 
-En esta generalmente se utilizan herramientas como Metroretro que le permiten al equipo participar de forma anonima
+En esta generalmente se utilizan herramientas como Metroretro que le permiten al equipo participar de forma anónima
 y poder compartir las diferentes opiniones sobre los resultados y/o problemas que tuvieron en el Sprint.
 
-Esta reunion ocurre al final del Sprint generalmente sucede después de la Sprint Review.
+Esta reunión ocurre al final del Sprint generalmente sucede después de la Sprint Review.
 
 ## Roles
 
@@ -44,17 +44,17 @@ Esta reunion ocurre al final del Sprint generalmente sucede después de la Sprin
     Este debe la responsabilidad de que se sigan las practicas de SCRUM y sus principios.
 
 - Product Owner - Romina
-    El rol incluye encargarse de crear las historias de usuario junto al eqquipo de desarrollo,
+    El rol incluye encargarse de crear las historias de usuario junto al equipo de desarrollo,
     aclarar dudas respecto al producto y que historia brinda valor.
 
-    Tambien este se encarga de priorizar el Product Backlog para poder tomar las historias para
+    También este se encarga de priorizar el Product Backlog para poder tomar las historias para
     las siguientes iteraciones, y que estas brinden el mayor valor posible.
 
-    Tambien se encarga, no unicamente, de validar que estas historias esten completas y que el
+    También se encarga, no unicamente, de validar que estas historias esten completas y que el
     objetivo del sprint se haya cumplido, esto sucede en la Sprint Review.
 
 - Development Team - Todos
-    Encargados de toda la parte que sea desarrollo y asimismo tambien participaran de los eventos
+    Encargados de toda la parte que sea desarrollo y asimismo también participaran de los eventos
     de SCRUM.
 
 ## Estategias de branching
@@ -73,7 +73,7 @@ Utilizaremos GitFlow como estrategia de branching con un leve cambio, agregamos 
 
 ## Estategias de Pull request
 
-Seguiremos la siguiente estrategia para los pull requests, y al final de cada sprint se creara un pull request de <strong>dev</strong> a <strong>main</strong> para pushear los cambios realizados sobre la iteracion.
+Seguiremos la siguiente estrategia para los pull requests, y al final de cada sprint se creara un pull request de <strong>dev</strong> a <strong>main</strong> para pushear los cambios realizados sobre la iteración.
 
 - feature/X - Feature sobre historia X a desarrollar.
 
