@@ -7,10 +7,10 @@ En Sprint Planning hemos seguido los consejos de la guia SCRUM y cada una de sus
  - How will the chosen work get done?
 
 Daily:
-Nuestras dailys en vez de tener un largo de 15 minutos, tuvieron un largo promedio de 30 minutos, esta adaptacion nos ha beneficiado para coordinar mejor el progreso de cada Sprint, dandole al equipo una velocidad adecuada de trabajo.
+Nuestras dailys en vez de tener un largo de 15 minutos, tuvieron un largo promedio de 30 minutos, esta adaptación nos ha beneficiado para coordinar mejor el progreso de cada Sprint, dandole al equipo una velocidad adecuada de trabajo.
 
 Sprint Review:
-En nuestro caso no han sido incluidos Stake Holders a las Sprint Review, si no que hemos hecho incapie en la opinion del Product Owner. 
+En nuestro caso no han sido incluidos Stake Holders a las Sprint Review, si no que hemos hecho hincapié en la opinión del Product Owner. 
 Todas las Sprint Review se han realizado al terminar un Sprint y han tenido un largo promedio de 15 minutos.
 
 Sprint Retrospective:
