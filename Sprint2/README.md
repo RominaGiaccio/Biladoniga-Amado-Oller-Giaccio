@@ -22,7 +22,7 @@ Tengo planeado terminar de documentar el análisis de resultado de entrevista, e
 
 [Dailies Sprint 2](./Dailies.md)
 
-## Verificaciones con usuarios
+## Validacion Prototipo con usuarios
 
 ### Contexto de las pruebas
 
@@ -90,10 +90,106 @@ RE: “Entendí bastante bien, pero me faltaría algún texto para saber en que 
 
 RE: “No entendí mucho como se dónde están las paradas, me aparecieron datos de cuenta aunque entre de forma anónima, aparte de eso me gusta, si bien pienso que le falta texto, esta bueno que no sea mucho así las personas como yo que vemos menos podemos usarla sin tanto problema.”
 
+### REVISIÓN 1: 20 años
 
+- Flujo realizado por la persona:
+
+La persona ingresó a la aplicación registrando al finalizar el registro se logeo, donde llego al mapa intento ir a configuraciones donde desactivo las notificaciones. Luego volvio al mapa, donde intento mover el mapa y volver a centrarlo. Comento que el mapa no se veia bien en cuanto a la resolución. Intento editar el usuario, no pudo cambiar la fecha. Pudo cerrar sesion y iniciar nuevamente. Al ir al mapa estuvo problemas al intentar iniciar un viaje, pero luego pudo iniciar el viaje correctamente. Bajo el mapa y finalmente fue a modo viaje donde noto que la pagina estaba vacia.
+ 
+- ¿Qué funcionalidades entiende que realiza? 
+
+RE: “Pude iniciar sesión, iniciar un viaje, cambiar la configuración de notificaciones, ver el mapa con la ubicación actual. También se puede editar el perfil de usuario y cerrar la sesión.”
+
+- ¿Le parece que se cumplen? 
+
+* Inicio de sesión tanto como por Google, iCloud y Usuario y Email, la funcionalidad se cumple. (Considera que se cumple, pero no noto la funcionalidad de anónimo)
+* Permitir registrarse en la aplicación / crearse una cuenta que no sea con el correo de google (Considera que se cumple)
+* Edición del perfil del usuario y sus datos (Considera que se cumple)
+* Presentar la opción de un mapa con la ubicación actual del usuario y un vistazo de cómo se realizará la consulta para iniciar viajes ingresando origen y destino (Considera que se cumple parcialmente, tuvo problemas al elegir el origen y destino, y comentó que el mapa se ve mal)
+* Mostrar la navegación que tendrá la app a todas las ventanas de la aplicación (Considera que se cumple)
+
+- ¿Qué opina de los colores seleccionados, le pareció agradable a la vista? 
+
+RE: “Los colores me parecen correctos, le dan una imagen minimalista a la aplicación”
+
+- ¿Cómo le resultó la navegación? (registrar respuestas)
+
+RE: “Sintió que algunas cosas estaban medio escondidas, y que otras no se entendia como realizarlas.”
+
+- ¿Tiene algo para comentar/agregar? (registrar respuestas)
+
+RE: “Dado que es un prototipo, me parece que está acertado, pero me hubiese gustado que se pueda escribir en los inputs y que algunas interacciones se cumplan.”
+
+[Validacion Usuarios](./assets/validacion%20usuario.MP4)
+## Prototipos
+
+### Inicio 
+![PrototypeImage1](./assets/inicio.png)
+
+### Inicio Sesión 
+![PrototypeImage2](./assets/inicioSesion.png)
+
+### Registro de la cuenta
+![PrototypeImage3](./assets/registroCuentaFechaOculta.png)
+
+### Registro de la cuenta - selección de fecha
+![PrototypeImage4](./assets/registroCuenta.png)
+
+### Perfil 
+![PrototypeImage5](./assets/perfil.png)
+
+### Perfil - edición
+![PrototypeImage6](./assets/perfilEditado.png)
+
+### Perfil - selección de fecha
+![PrototypeImage7](./assets/perfilEditadoFecha.png)
+
+### Inicio Viaje
+![PrototypeImage8](./assets/inicioViaje.png)
+
+### Inicio Viaje - selección de destino
+![PrototypeImage9](./assets/inicioViajeDestinoSeleccionado.png)
+
+### Inicio Viaje - selección de líneas
+![PrototypeImage10](./assets/inicioViajeListadoLineas.png)
+
+### Inicio Viaje - seleccionar origen
+![PrototypeImage11](./assets/inicioViajeSeleccionarOrigen.png)
+
+### Inicio Viaje - descarga de mapa
+![PrototypeImage12](./assets/InicioViajeMapaDescargado.png)
+
+### Inicio Viaje - ruta seleccionada 
+![PrototypeImage13](./assets/inicioViajeRutaMostrada.png)
+
+### Setting  
+![PrototypeImage14](./assets/settings.png)
+
+### Setting - lista de medios de notificación
+![PrototypeImage15](./assets/settingDropdownAbierto.png)
+
+### Setting  - desactivar notificacion
+![PrototypeImage16](./assets/settingsNotificacionDesactivada.png)
+
+### Setting - desactivar sonido
+![PrototypeImage17](./assets/settingSonidoDesactivado.png)
+
+### Modo Viaje
+![PrototypeImage18](./assets/modoViaje.png)
+
+### Comentarios
+![PrototypeImage19](./assets/comentario.png)
+
+
+### Link a prototipo
+
+[Prototipo](https://www.figma.com/proto/HmnWSlpF0ozOWEV7KaNNtx/ISA-1?node-id=1%3A13&scaling=scale-down&page-id=0%3A1&starting-point-node-id=47%3A46)
 ## Sprint Review
 
 
+![Burndown Chart](./assets/burndown%20chart.png)
+
+![Velocity Chart](./assets/velocity%20chart.png)
 
 ## Retrospective
 
