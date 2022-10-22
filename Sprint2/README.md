@@ -189,6 +189,8 @@ RE: “Dado que es un prototipo, me parece que está acertado, pero me hubiese g
 
 ![Burndown Chart](./assets/burndown%20chart.png)
 
+![Burnup Chart](./assets/burnup.png)
+
 ![Velocity Chart](./assets/velocity%20chart.png)
 
 ## Retrospective
