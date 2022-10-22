@@ -186,18 +186,30 @@ RE: “Dado que es un prototipo, me parece que está acertado, pero me hubiese g
 [Prototipo](https://www.figma.com/proto/HmnWSlpF0ozOWEV7KaNNtx/ISA-1?node-id=1%3A13&scaling=scale-down&page-id=0%3A1&starting-point-node-id=47%3A46)
 ## Sprint Review
 
+Nos juntamos con el Product Owner para hacer la review.
+
+En esta meeting revisamos las historias de usuarios realizadas, nos fijamos que se hayan completado cada una y que se cumplan los criterios de aceptacion y el DoD. Hicimos una demo de los prototipos realizados en esta iteración.
+Romi nos dejo su feedback de algunas cosas, como por ejemplo que el mapa se veia con poca calidad en el celular, inicio de usuario como anonimo te deja deslogearte aunque nunca iniciaste sesión y las configuraciones le falta interacciones.
+
+Dado el feedback creamos algunas historias de usuario para la proxima iteración.
+
+## Retrospective
+
+Utilizamos metroretro para hacer la retrospective.
+
+Action Items:
+
+- Fijar reuniones en un horario que nos permita estar todos a tiempo (Después de las 18hs)
+- Tener mas de 3 usuarios para testear
+- Tener al menos 2 code reviews realizados por developer
+
+![Retrospective](./assets/retrospective.png)
 
 ![Burndown Chart](./assets/burndown%20chart.png)
 
 ![Burnup Chart](./assets/burnup.png)
 
 ![Velocity Chart](./assets/velocity%20chart.png)
-
-## Retrospective
-
-Utilizamos metroretro para hacer la retrospective.
-
-![Retrospective](./assets/retro1.png)
 
 <hr>
 
