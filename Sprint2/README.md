@@ -95,31 +95,31 @@ RE: “No entendí mucho como se dónde están las paradas, me aparecieron datos
 ### Inicio 
 ![PrototypeImage1](./assets/inicio.png)
 
-### Inicio Sesion 
+### Inicio Sesión 
 ![PrototypeImage2](./assets/inicioSesion.png)
 
 ### Registro de la cuenta
 ![PrototypeImage3](./assets/registroCuentaFechaOculta.png)
 
-### Registro de la cuenta - seleccion de fecha
+### Registro de la cuenta - selección de fecha
 ![PrototypeImage4](./assets/registroCuenta.png)
 
 ### Perfil 
 ![PrototypeImage5](./assets/perfil.png)
 
-### Perfil - edicion
+### Perfil - edición
 ![PrototypeImage6](./assets/perfilEditado.png)
 
-### Perfil -  seleccion de fecha
+### Perfil - selección de fecha
 ![PrototypeImage7](./assets/perfilEditadoFecha.png)
 
 ### Inicio Viaje
 ![PrototypeImage8](./assets/inicioViaje.png)
 
-### Inicio Viaje - seleccion de destino
+### Inicio Viaje - selección de destino
 ![PrototypeImage9](./assets/inicioViajeDestinoSeleccionado.png)
 
-### Inicio Viaje - seleccion de lineas
+### Inicio Viaje - selección de líneas
 ![PrototypeImage10](./assets/inicioViajeListadoLineas.png)
 
 ### Inicio Viaje - seleccionar origen
@@ -134,7 +134,7 @@ RE: “No entendí mucho como se dónde están las paradas, me aparecieron datos
 ### Setting  
 ![PrototypeImage14](./assets/settings.png)
 
-### Setting - lista de medios de notificacion
+### Setting - lista de medios de notificación
 ![PrototypeImage15](./assets/settingDropdownAbierto.png)
 
 ### Setting  - desactivar notificacion
@@ -148,6 +148,7 @@ RE: “No entendí mucho como se dónde están las paradas, me aparecieron datos
 
 ### Comentarios
 ![PrototypeImage19](./assets/comentario.png)
+
 
 ### Link a prototipo
 
