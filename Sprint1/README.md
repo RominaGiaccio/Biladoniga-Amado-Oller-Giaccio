@@ -1,3 +1,157 @@
+## Adaptación de SCRUM 
+
+Sprint Planning:
+En Sprint Planning hemos seguido los consejos de la guia SCRUM y cada una de sus secciones, que son las siguientes: 
+ - Why is this Sprint valuable?
+ - What can be Done this Sprint?
+ - How will the chosen work get done?
+
+Daily:
+Nuestras dailys en vez de tener un largo de 15 minutos, tuvieron un largo promedio de 30 minutos, esta adaptacion nos ha beneficiado para coordinar mejor el progreso de cada Sprint, dandole al equipo una velocidad adecuada de trabajo.
+
+Sprint Review:
+En nuestro caso no han sido incluidos Stake Holders a las Sprint Review, si no que hemos hecho incapie en la opinion del Product Owner. 
+Todas las Sprint Review se han realizado al terminar un Sprint y han tenido un largo promedio de 15 minutos.
+
+Sprint Retrospective:
+Nuestras Sprint Retrospectives han durado en promedio 25 minutos lo cual es comprensible debido a que nuestros sprints tienen una duración de 2 semanas. 
+
+Añadido a lo anterior estos eventos de SCRUM fueron llevados a cabo de forma que siguieran lo mas posible los parámetros establecidos por la guía de SCRUM. 
+
+
+## Eventos SCRUM
+
+Sprint Planning - Primer Viernes despues del comienzo del Sprint alrededor de 17:30.
+
+El Sprint Planning es una reunión que se realiza al comienzo de cada Sprint donde participa
+el equipo Scrum al completo; sirve para inspeccionar el Product Backlog y que el equipo de 
+desarrollo seleccione las historias de usuario en los que va a trabajar durante el siguiente Sprint.
+Estas historias son los que compondrán el Sprint Backlog.
+
+Daily - Lunes, Miercoles y Viernes por Whatsapp a las 13:00.
+
+La Daily es una reunión recurrente de aproximadamente 15 minutos en la que participa exclusivamente el Development Team.
+
+En esta reunión todas y cada una de las personas del Development Team responden a las siguientes preguntas:
+
+¿Qué hice ayer para contribuir al Sprint Goal?
+¿Qué voy a hacer hoy para contribuir al Sprint Goal?
+¿Tengo algún impedimento que me impida entregar?
+
+Sprint Review - El día antes a la entrega. (Sábado o Domingo)
+
+La Sprint Review es una reunión en la cual el Development team muestra al Product Owner el incremento realizado en el sprint actual
+y el Product Owner puede dar feedback sobre las tareas realizadas.
+
+Esta reunión ocurre al final del Sprint y antes de la retrospective.
+
+Sprint Retrospective - El día antes a la entrega. (Sábado o Domingo).
+Utilizaremos [Metroretro](https://metroretro.io/) como herramienta para las restrospectivas.
+
+La Sprint Retrospective es una reunión en la cual el Development team analiza su actuación y desempeño durante el Sprint
+en busca de mejorar para el proximo Sprint. 
+
+En esta generalmente se utilizan herramientas como Metroretro que le permiten al equipo participar de forma anónima
+y poder compartir las diferentes opiniones sobre los resultados y/o problemas que tuvieron en el Sprint.
+
+Esta reunión ocurre al final del Sprint generalmente sucede después de la Sprint Review.
+
+## Roles
+
+- Scrum Master - Tomas
+    El rol incluye liderar al equipo en el marco de SCRUM, 
+    permitiendo mejorar la agilidad del mismo para una entrega de mejor valor al cliente.
+
+    Este debe la responsabilidad de que se sigan las practicas de SCRUM y sus principios.
+
+- Product Owner - Romina
+    El rol incluye encargarse de crear las historias de usuario junto al equipo de desarrollo,
+    aclarar dudas respecto al producto y que historia brinda valor.
+
+    También este se encarga de priorizar el Product Backlog para poder tomar las historias para
+    las siguientes iteraciones, y que estas brinden el mayor valor posible.
+
+    También se encarga, no unicamente, de validar que estas historias esten completas y que el
+    objetivo del sprint se haya cumplido, esto sucede en la Sprint Review.
+
+- Development Team - Todos
+    Encargados de toda la parte que sea desarrollo y asimismo también participaran de los eventos
+    de SCRUM.
+
+## Estategias de branching
+
+Utilizaremos GitFlow como estrategia de branching con un leve cambio, agregamos un nuevo tipo de rama llamada <strong>bug/X</strong> para diferenciar los bugs de los hotfixes.
+
+- Main - Rama principal.
+
+- Dev - Rama de desarollo. Esta sera la rama donde se mergeara los cambios realizados para cada iteracion.
+
+- feature/X - Feature sobre historia X a desarollar.
+
+- hotfix/X - Hotfix sobre historia X ya desarollada.
+
+- bug/X - Fix de bug sobre historia X.
+
+- document/X - Documentación nueva/modificada.
+
+![Git Graph](./assets/gitGraph.png)
+
+## Estategias de Pull request
+
+Seguiremos la siguiente estrategia para los pull requests, y al final de cada sprint se creara un pull request de <strong>dev</strong> a <strong>main</strong> para pushear los cambios realizados sobre la iteración.
+
+- feature/X - Feature sobre historia X a desarrollar.
+
+- hotfix/X - Hotfix sobre historia X ya desarrollada.
+
+- bug/X - Fix de bug sobre historia X.
+
+- document/X - Documentación actualizada.
+
+## Politicas de Trabajo
+
+### Definition of Ready
+
+Consideraremos que una Historia de Usuario estará lista para desarrollarese cuando cumpla con las siguientes consideraciones:
+
+- La misma este bien definida.
+
+- Criterios de aceptación definidos.
+
+- La persona encargada de trabajar en la misma debe estar asignada.
+
+Además de esto debe cumplir con el criterio INVEST: Independiente, Negociable, Valiosa, Estimable, Corta (Short) y Testeable.
+
+Es decir, para que una Historia de Usuario sera incluida en el siguiente Sprint por el equipo de desarrollo debe presentar las siguientes características:
+
+- Independiente: no tendrá dependencias con otras historias que pudieran impedir su desarrollo. Por tanto, si para que la funcionalidad A sea posible es necesario tener la B, entonces la historia A no es independiente.
+
+- Negociable: debe permitir espacio para la discusión con el Product Owner.
+
+- Valiosa: debe aportar valor al cliente. Cumpliendo este criterio evitas desarrollar algo inútil.
+
+- Estimable: puede ser estimada por el DevTeam (en tamaño relativo, en puntos de historia, etc).
+
+- Corta: debe poder terminarse durante el Sprint. Si se encuentra una Historia demasiado grande, eso exige al Product Owner que la subdivida en varias Historias más pequeñas.
+
+- Testeable: la Historia en su descripción debe contar con la información suficiente como para poder ser probada.
+
+### Definition of Done
+
+Consideraremos que una Historia de Usuario estará terminada cuando cumpla con las siguientes caracteristicas:
+
+- Existencia de prototipo sobre la Historia de Usuario.
+
+- Se debe cumplir con el requerimiento funcional del negocio y criterios de aceptación.
+
+- No deben existir defectos conocidos.
+
+- Debe estar integrada con el resto del prototipo.
+
+- Review sobre los cambios realizados por al menos 2 reviewers.
+
+- Documentacion actualizada sobre los cambios realizados.
+
 # Sprint 1
 
 ## Objetivo del Sprint
@@ -9,28 +163,11 @@ Identificar el problema y definir una solucion al mismo.
 Definimos que tareas teniamos que hacer, entrevistas, encuestas, etc. Nos dividimos algunas tareas.
 Definimos el marco de SCRUM y que eventos y roles vamos a seguir y/o tomar.
 
-## Dailies
+## Ejemplo Daily
 
-### Daily 26-09-2022
+Investigue sobre Moovit, pros, cons, requisitos, me junte con Romi para ver un poco como empezar el backlog pero no empezamos aun a definirlo.
 
-- Romi: Hice la investigación de la aplicación de STM, creo que lo que faltaría es ver que mejoras a partir de los pros que encontré se pueden añadir a nuestro producto.
-  No eh tenido problemas salvo para entender algunos aspectos de la aplicación que me tocó investigar, pero pude resolverlos. Tengo pendiente hacer el pull request.
-
-- Danilo: Investigacion sobre las secciones de que provee la app "como ir", pros, cons. Voy a agregar algunas observaciones de la misma. No tengo ningun bloquer.
-
-- German: Investigacion sobre la app que me habia tocado, pros, cons, requisitos. No tengo bloquer.
-
-- Tomas: Investigacion sobre Moovit, pros, cons, requisitos, me junte con Romi para ver un poco como empezar el backlog pero no empezamos aun.
-
-### Daily 4-10-2022
-
-- Romi: Trabaje sobre el backlog creando historias de usuario y priorize el backlog. Story Map. Analisis de encuestas y entrevista. Reporte de horas. Retrospective y Review. Creacion de encuestas.
-
-- Danilo: Trabaje sobre product backlog con el equipo. Story Map. Analisis de encuestas y entrevista. Reporte de horas. Retrospective y Review.
-
-- German: Trabaje sobre product backlog con el equipo. Story Map. Analisis de encuestas y entrevista. Reporte de horas. Retrospective y Review.
-
-- Tomas: Trabaje sobre product backlog con el equipo. Story Map. Analisis de encuestas y entrevista. Reporte de horas. Retrospective y Review.
+[Dailies Sprint 1](./Dailies.md)
 
 ## Sprint Review
 
@@ -49,6 +186,17 @@ Utilizamos metroretro para hacer la retrospective.
 
 <hr>
 
+### Reflexión de la retro y oportunidades de mejora
+  Durante la retrospectiva los resultados demostraron que el equipo estuvo de acuerdo en que la principal problemática presentada fue la falta de tiempo, se consideró la causa que produjo este problema y las reflexiones a partir de esto fueron las siguientes:
+
+  * La falta de tiempo está ligada a que somos un grupo de 4 personas que trabajan y estudian, lo cual no es algo que se pueda modificar, se consideraron como factores sobre los que no se puede actuar. 
+  * La falta de tiempo también está ligada a la organización de las diferentes tareas de los integrantes del equipo.
+
+	En esta segunda instancia para resolver estas problemáticas se planteó como mejora separar el trabajo de forma de que cada integrante tenga al menos una tarea en la que pueda avanzar en paralelo con respecto al resto del equipo, lo cual hace más posible que cada integrante pueda acomodar este trabajo a su horario personal. 
+  Otra solución propuesta es que las reuniones a las que puedan asistir todos los integrantes del equipo se enfoquen en aquellas actividades que los requieren a todos, realizando más reuniones de una duración menor, 1 hora como máximo.
+
+  Por otra parte, se analizaron aspectos positivos del equipo, como el apoyo entre los integrantes, la sincronía de pensamiento y compromiso en la participación de cada instancia.
+  
 # Investigacion Moovit
 
 ### Cumple con los requisitos
@@ -317,13 +465,40 @@ Joven de 20 años que utiliza ocasionalmente el transporte publico.
 
 ![encuesta 14](./assets/encuesta/Encuesta%2014.jpeg)
 
+# Análisis de resultados de investigación
 
+## Los principales resultados obtenidos en las investigaciones realizadas fueron:
 
-# Lista de interesados
+* Las personas que respondieron las encuestas que más suelen utilizar este tipo de aplicaciones se encuentran entre los 19 y 30 años. Siendo seguidos en menor proporción tanto por las edades entre 31 y 40 años como por los mayores de 51 años, además en la entrevista realizada se dejó ver que existen personas de edad avanzada que suelen usar estas aplicaciones. Por esta razón nos centramos en estos rangos de edades como público objetivo.
+* La gran mayoría de los encuestados utilizó en el pasado, usa ocasionalmente o muy seguido una aplicación de transporte público. Las aplicaciones STM y Moovit son unas de las más conocidas. De estas obtenemos gran referencia para nuestra propia aplicación como, por ejemplo:  
+  -  STM :
+    - Muestra en el mapa ubicaciones de locales para descargar la tarjeta STM
+    - Permite ver el saldo de la tarjeta (Loguin en saldos y beneficios)
+    - Cuenta con bandeja de notificaciones donde se pueden avisos de horarios especiales
+    - Se pueden deshabilitar las notificaciones
+  - MOOVIT:
+    - Se puede reportar varias
+    - Posee mapa lo cual ayuda a visualizar donde se encuentra el usuario y donde esta el destino.
+    - Intuitiva y fácil de navegar
+* Cerca de un cuarto de los encuestados afirmó presentar dificultades en el manejo de una aplicación de esta índole, además el entrevistado de mayor edad confirmo estas dificultades. Por lo cual trataremos de que nuestro diseño sea lo más intuitivo posible.
+* Más del 60% de los encuestados les gustaría tener la posibilidad de utilizar la aplicación de forma anónima y más del 40% de los encuestados les gustaría tener la posibilidad de utilizar la aplicación iniciando sesión con su cuenta de google. Por lo tanto, se agregaron estas posibilidades.
+* La mayor parte de los encuestados y todos los entrevistados consideraron que las funcionalidades de compartir la ubicación de su viaje en tiempo real, así como tener destinos favoritos son funcionalidades útiles, además es un pro encontrado en la mayor parte de las apps investigadas. Por lo cual estas dos funcionalidades se agregaron.
+* La sección para ver precios de boletos, así como la funcionalidad de ver puestos de recarga en el mapa fueron mayoritariamente aceptadas por los encuestados y entrevistados. Se agrego la posibilidad de realizar estas actividades dentro de la aplicación.
+* La funcionalidad de recarga de boletos dentro de la aplicación fue mayoritariamente aceptada por los encuestados, sumado a que algunos encuestados añadieron la necesidad de tener tarjetas de pago dentro de la aplicación para poder cargar boletos desde allí nos llevó a contemplar esta opción dentro de las funcionalidades de nuestra aplicación.
+* Sobre las notificaciones, más del 90% de los encuestados desea tener la posibilidad de realizar ajustes sobre las mismas, además como indican que le molestan los anuncios esta funcionalidad agregaría valor.
+* En la primera pantalla de la aplicación la mayor parte de los encuestados quiere visualizar la opción para realizar un nuevo viaje y la siguiente es visualizar el mapa, es por esto por lo que consideraremos estas dos opciones para el inicio de la aplicación.
+* Envío de comentarios, la mayoría de los entrevistados y más del 60% de los encuestados están a favor de poder enviar comentarios o quejas dentro de la aplicación. Esto se tomará en cuenta para la implementación.
 
-- Jovenes estudiantes (Menores de 30)
-- Adultos mayores (Mayores de 51)
-- Frecuentadores de transporte publico (30-50)
+# Descripción de interesados
+
+## Los grupos de interesados constan de:
+
+### Jóvenes adultos y estudiantes: 
+  Este grupo engloba todos los jóvenes y/o estudiantes menores de 30 años, los cuales suelen frecuentar los transportes públicos como medio de locomoción al estudio o trabajo, además suelen ser más activos y salir más seguido en toda la franja horaria del día. También se considera que son el rango que más podría utilizar la aplicación debido a su afinidad con la tecnología.
+### Adultos y frecuentadores de transporte público: 
+  Este grupo comparte varias de las características del grupo anterior, pero se enfoca en una edad más madura de 30 a 50 años, donde existe familiaridad con la tecnología, pero en algunos casos más restringida que en edades inferiores. Muchos adultos en esta edad tienen vehículo propio, pero nos enfocamos en aquella gran parte de la población que se transporta toda su vida en transporte público. 
+### Adultos mayores: 
+  Este grupo involucra a todos los mayores de 51 años capaces de manejar una aplicación básica, este grupo es más reducido debido a que a mayor edad existe una menor afinidad con la tecnología. Existen personas que cuentan con beneficios para viajar en transporte público y los frecuentan, involucrando también a antiguos conductores que debido a su edad o por alguna incapacidad prefieren este tipo de transporte. Es posible que estas personas prefieren tener todo lo referido a su viaje en una sola aplicación y no buscar en internet u otras aplicaciones y sin duda se verían beneficiados al tener opciones offline. 
 
 # Funcionalidad por interesado
 
@@ -343,7 +518,7 @@ Joven de 20 años que utiliza ocasionalmente el transporte publico.
   *	Tracking de precio de boletos
   *	Configurar cantidad de notificaciones a recibir.
 
-* Las funcionalidades que interesan a sujetos de entre menores y 30 años son:
+* Las funcionalidades que interesan a sujetos de entre menores y 30 años (Jóvenes adultos y estudiantes) son:
   *	Configurar medio para recibir las notificaciones
   *	Notificación sobre línea perdida
   *	Notificación sobre línea por llegar a parada
@@ -355,7 +530,7 @@ Joven de 20 años que utiliza ocasionalmente el transporte publico.
   *	Inicio de sesión
   *	Recargar boletos desde la app.
 
-* Las funcionalidades que involucran a sujetos de entre 30 y 50 años son:
+* Las funcionalidades que involucran a sujetos de entre 30 y 50 años (Adultos y frecuentadores de transporte público) son:
   *	Notificación sobre línea perdida
   *	Descarga mapa de viaje
   *	Notificaciones sobre tiempo de espera sobre la línea
@@ -367,7 +542,7 @@ Joven de 20 años que utiliza ocasionalmente el transporte publico.
   *	Inicio de sesión
   *	Recargar boletos desde la app.
 
-* Las funcionalidades que interesan a sujetos mayores de 51 años son:
+* Las funcionalidades que interesan a sujetos mayores de 51 años (Adultos mayores) son:
   *	Descarga mapa de viaje.
   *	Configurar sonido y volumen de las notificaciones.
   *	Notificación sobre línea por llegar a parada.
