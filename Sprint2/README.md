@@ -90,6 +90,68 @@ RE: “Entendí bastante bien, pero me faltaría algún texto para saber en que 
 
 RE: “No entendí mucho como se dónde están las paradas, me aparecieron datos de cuenta aunque entre de forma anónima, aparte de eso me gusta, si bien pienso que le falta texto, esta bueno que no sea mucho así las personas como yo que vemos menos podemos usarla sin tanto problema.”
 
+## Prototipo
+
+### Inicio 
+![PrototypeImage1](./assets/inicio.png)
+
+### Inicio Sesion 
+![PrototypeImage2](./assets/inicioSesion.png)
+
+### Registro de la cuenta
+![PrototypeImage3](./assets/registroCuentaFechaOculta.png)
+
+### Registro de la cuenta - seleccion de fecha
+![PrototypeImage4](./assets/registroCuenta.png)
+
+### Perfil 
+![PrototypeImage5](./assets/perfil.png)
+
+### Perfil - edicion
+![PrototypeImage6](./assets/perfilEditado.png)
+
+### Perfil -  seleccion de fecha
+![PrototypeImage7](./assets/perfilEditadoFecha.png)
+
+### Inicio Viaje
+![PrototypeImage8](./assets/inicioViaje.png)
+
+### Inicio Viaje - seleccion de destino
+![PrototypeImage9](./assets/inicioViajeDestinoSeleccionado.png)
+
+### Inicio Viaje - seleccion de lineas
+![PrototypeImage10](./assets/inicioViajeListadoLineas.png)
+
+### Inicio Viaje - seleccionar origen
+![PrototypeImage11](./assets/inicioViajeSeleccionarOrigen.png)
+
+### Inicio Viaje - descarga de mapa
+![PrototypeImage12](./assets/InicioViajeMapaDescargado.png)
+
+### Inicio Viaje - ruta seleccionada 
+![PrototypeImage13](./assets/inicioViajeRutaMostrada.png)
+
+### Setting  
+![PrototypeImage14](./assets/settings.png)
+
+### Setting - lista de medios de notificacion
+![PrototypeImage15](./assets/settingDropdownAbierto.png)
+
+### Setting  - desactivar notificacion
+![PrototypeImage16](./assets/settingsNotificacionDesactivada.png)
+
+### Setting - desactivar sonido
+![PrototypeImage17](./assets/settingSonidoDesactivado.png)
+
+### Modo Viaje
+![PrototypeImage18](./assets/modoViaje.png)
+
+### Comentarios
+![PrototypeImage19](./assets/comentario.png)
+
+### Link a prototipo
+
+[Prototipo](https://www.figma.com/proto/HmnWSlpF0ozOWEV7KaNNtx/ISA-1?node-id=1%3A13&scaling=scale-down&page-id=0%3A1&starting-point-node-id=47%3A46)
 
 ## Sprint Review
 
