@@ -205,9 +205,16 @@ Action Items:
 
 ![Retrospective](./assets/retrospective.png)
 
+### Burn Charts
+
 ![Burndown Chart](./assets/burndown%20chart.png)
 
 ![Burnup Chart](./assets/burnup.png)
+
+### Velocidad de equipo
+
+Como se puede ver en la foto adjunta, el equipo tuvo una velocidad de 14 puntos. Como fue la primera vez que se midio
+no se tiene comparacion con sprints anteriores.
 
 ![Velocity Chart](./assets/velocity%20chart.png)
 
