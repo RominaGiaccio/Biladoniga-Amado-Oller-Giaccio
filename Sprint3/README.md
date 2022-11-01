@@ -17,6 +17,10 @@ Para el Poker utilizamos https://www.scrumpoker-online.org.
 
 Finalmente, dividimos las tareas entre el development team.
 
+![Sprint Backlog](./assets/sprintBacklog.png)
+
+![Sprint Backlog 2](./assets/sprintBacklog2.png)
+
 ## Ejemplo Daily
 
 // TODO: agregar las nuevas dailies

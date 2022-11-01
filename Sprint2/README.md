@@ -15,6 +15,8 @@ Para el Poker utilizamos https://www.scrumpoker-online.org.
 
 Finalmente, dividimos las tareas entre el development team.
 
+[Sprint Backlog](./assets/sprintBacklog.png)
+
 ## Ejemplo Daily
 
 Reflexión de la retro y oportunidades de mejora, descripción más detallada de los interesados, corrección del story map.
