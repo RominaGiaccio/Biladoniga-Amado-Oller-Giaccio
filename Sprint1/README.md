@@ -152,6 +152,18 @@ Consideraremos que una Historia de Usuario estará terminada cuando cumpla con l
 
 - Documentacion actualizada sobre los cambios realizados.
 
+- Se debe seguir cumpliendo con los requerimientos no funcionales
+
+### Requerimientos no funcionales
+
+- Seguridad: El sistema debe ser seguro, es decir, no debe permitir que un usuario no autorizado pueda acceder a la información del sistema.
+
+- Usabilidad: El sistema debe ser fácil de usar, es decir, debe ser intuitivo y fácil de aprender.
+
+- Performance: El sistema debe poder manejar grandes cantidades de usuarios sin haber ninguna desgradación en la velocidad de la aplicación.
+
+- Compatibilidad: El sistema debe ser compatible para sistemas operativos iOS y Android.
+
 # Sprint 1
 
 ## Objetivo del Sprint
@@ -557,6 +569,22 @@ Joven de 20 años que utiliza ocasionalmente el transporte publico.
 [Story Map](https://miro.com/app/board/uXjVPP7CXlM=/?share_link_id=835092374517)
 
 ![Story Map Image](./assets/Story%20Map.png)
+
+### Fechas de entregas y objetivos
+
+- 1er Sprint: 7 de Octubre
+
+- 2do Sprint: 21 de Octubre
+
+Con este sprint se busca tener una aplicación funcional con las funcionalidades básicas de la aplicación, como el registro de usuarios, inicio de sesión, selección de lineas, barra de navegación, entre otras.
+
+- 3er Sprint: 11 de Noviembre
+
+En este sprint se busca incrementar la funcionalidad de la aplicación, agregando funcionalidades como la notificación de desvíos, problemas en la línea, compartir viaje en distintos medios de comunicación, sección de soporte/comentarios, regarga de boletos mediante la aplicación, entre otras.
+
+- 4to Sprint: 17 de Noviembre
+
+En este sprint se busca priorizar algunas funcionalidades extra para mejorar la experiencia de usuario como, por ejemplo, la posiblidad de editar la foto de perfil y cancelar el viaje actual.
 
 # Product Backlog (Priorizado 1-4)
 
