@@ -92,7 +92,7 @@ RE: “Entendí bastante bien, pero me faltaría algún texto para saber en que 
 
 RE: “No entendí mucho como se dónde están las paradas, me aparecieron datos de cuenta aunque entre de forma anónima, aparte de eso me gusta, si bien pienso que le falta texto, esta bueno que no sea mucho así las personas como yo que vemos menos podemos usarla sin tanto problema.”
 
-### REVISIÓN 1: 20 años
+### REVISIÓN 3: 20 años
 
 - Flujo realizado por la persona:
 
@@ -121,6 +121,32 @@ RE: “Sintió que algunas cosas estaban medio escondidas, y que otras no se ent
 - ¿Tiene algo para comentar/agregar? (registrar respuestas)
 
 RE: “Dado que es un prototipo, me parece que está acertado, pero me hubiese gustado que se pueda escribir en los inputs y que algunas interacciones se cumplan.”
+
+### REVISIÓN 4: 56 años
+
+- Flujo realizado por la persona:
+
+La persona fue a la sección de olvido su contraseña realizando el camino completo, luego se registro y deslogueo. Posteriormente se logeo y seleccionó distintas secciones de la barra de navegación y por último realizó el flujo de iniciar viaje, seleccionando ubicación actual y destino. También descargo el mapa y compartió el viaje.
+ 
+- ¿Qué funcionalidades entiende que realiza? 
+
+RE: "Recuperar contraseña, registrarse, iniciar sesión, cerrar sesión, editar perfil, ver historial de viaje, ver mapa, iniciar viaje, compartir viaje, descargar mapa."
+
+- ¿Le parece que se cumplen? 
+
+RE: "Si, se cumplen todas las funcionalidades."
+
+- ¿Qué opina de los colores seleccionados, le pareció agradable a la vista?
+
+RE: "Si, los colores son adecuados y no son para nada molestos."
+
+- ¿Cómo le resultó la navegación? (registrar respuestas)
+
+RE: "La navegación me parecio un poco complicada al principio, pero después de un rato me acostumbre."
+
+- ¿Tiene algo para comentar/agregar? (registrar respuestas)
+
+RE: "Algunas notificaciones se mostraban contra el borde de la pantalla, lo que dificultaba su lectura."
 
 [Validacion Usuarios](./assets/validacion%20usuario.MP4)
 ## Prototipos
