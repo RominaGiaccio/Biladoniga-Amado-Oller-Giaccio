@@ -126,7 +126,7 @@ RE: “Dado que es un prototipo, me parece que está acertado, pero me hubiese g
 
 - Flujo realizado por la persona:
 
-La persona fue a la sección de olvido su contraseña realizando el camino completo, luego se registro y deslogueo. Posteriormente se logeo y seleccionó distintas secciones de la barra de navegación y por último realizó el flujo de iniciar viaje, seleccionando ubicación actual y destino. También descargo el mapa y compartió el viaje.
+La persona fue a la sección de olvidó su contraseña realizando el camino completo, luego se registro y deslogueo. Posteriormente se logeo y seleccionó distintas secciones de la barra de navegación y por último realizó el flujo de iniciar viaje, seleccionando ubicación actual y destino. También descargo el mapa y compartió el viaje.
  
 - ¿Qué funcionalidades entiende que realiza? 
 
