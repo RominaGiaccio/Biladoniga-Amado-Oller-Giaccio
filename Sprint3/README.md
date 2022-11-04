@@ -82,7 +82,10 @@ RE: "Me parece bastante intuitiva, los iconos de cada tab son faciles de entende
 [Prototipo](https://www.figma.com/proto/HmnWSlpF0ozOWEV7KaNNtx/ISA-1?node-id=1%3A13&scaling=scale-down&page-id=0%3A1&starting-point-node-id=47%3A46)
 ## Sprint Review
 
-// TODO: Hacer review
+Nos juntamos con el Product Owner nuevamente para hacer la review.
+
+En esta meeting revisamos las historias de usuarios realizadas, nos fijamos que se hayan completado cada una, asi también revisamos el feedback dado en la iteración anterior. Revisamos también que se cumplan los criterios de aceptacion y el DoD.
+Hicimos una demo de los prototipos realizados en esta iteración. El PO quedo muy contento sobre el trabajo realizado y que logramos cumplir las metas.
 
 ## Retrospective
 
@@ -97,17 +100,17 @@ Action Items:
 
 ### Burn Charts
 
-![Burndown Chart](./assets/burndown%20chart.png) // TODO: Cambiar foto
+![Burndown Chart](./assets/burndown.png)
 
-![Burnup Chart](./assets/burnup.png) // TODO: Cambiar foto
+![Burnup Chart](./assets/burnup.png)
 
 ### Velocidad de equipo
 
-Como se puede ver en la foto adjunta, el equipo tuvo una velocidad de X puntos. Comparado con el sprint anterior
+Como se puede ver en la foto adjunta, el equipo tuvo una velocidad de 17 puntos. Comparado con el sprint anterior
 se puede ver que el equipo trabajó más, mayor cantidad de puntos, por lo cual se puede llegar a la conclusion que 
-el sprint anterior el equipo se estaba ajustando a las herramientas.
+el sprint anterior el equipo se estaba ajustando a las herramientas y por lo tanto se hicieron menos puntos.
 
-![Velocity Chart](./assets/velocity%20chart.png) // TODO: Cambiar foto
+![Velocity Chart](./assets/velocity.png)
 
 <hr>
 
