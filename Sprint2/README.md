@@ -237,7 +237,15 @@ Action Items:
 
 ![Burndown Chart](./assets/burndown%20chart.png)
 
+- Análisis:
+Los burndown charts permiten visualizar rápidamente el trabajo pendiente. En el eje horizontal (eje x) se muestra el tiempo que queda para completar el proyecto en días, mientras que en el eje vertical (eje y) se muestran el esfuerzo restante necesario para completar el proyecto issues.
+Vemos según el gráfico presentado que el equipo logra alcanzar los objetivos de la iteración pero no logra mantener una velocidad constante durante la iteración.
+
 ![Burnup Chart](./assets/burnup.png)
+
+- Análisis:
+El burnup chart permite visualizar el alcance de un proyecto o iteración y el trabajo realizado hasta el momento. En el eje horizontal (eje x) se muestra el tiempo transcurrido del proyecto en días, mientras que en el eje vertical (eje y) se muestran las unidades de trabajo por story points.
+Como vemos en este gráfico hasta el momento se ha completado el 42% del trabajo establecido, las implementaciones se realizaron en la segunda mitad del sprint 2, ya que inicialmente se analizó que historias de usuario implementar y se pensó en el diseño de la aplicación en general. 
 
 ### Velocidad de equipo
 
