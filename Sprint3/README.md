@@ -270,6 +270,7 @@ Action Items:
 ### Burn Charts
 
 ![Burndown Chart](./assets/burndown.png)
+Al analizar el grafico, podemos ver un delay a la hora de agregar y realizar las tareas. A partir del 28/10 se agregaron todas. Luego se fueron realizando hasta quedar sin pendientes. A excepcion de "Agregar funcionalidad a los inputs" que se opto por descartar, ya que representaba una gran dificultad y era poco util. La realizacion de las tareas no tomo el camino optimo, dado que hubo una desaseleracion en la velocidad del trabajo y para coompensar eso se empezo a trabajar mas rapido hacia el final, como se puede ver en el cambio de tendencia en la grafica. 
 
 ![Burnup Chart](./assets/burnup.png)
 
