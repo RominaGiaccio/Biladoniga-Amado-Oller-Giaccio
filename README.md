@@ -8,7 +8,7 @@
     <h3 style="border:none">Entregado como requisito de la materia Ingeniería de software ágil 1</h3>
     <div style="padding:1rem"></div>
     <h3 style="border:none">Equipo:</h3>
-    <h4 style="border:none">Tomas Amado</h4>
+    <h4 style="border:none">Tomas Amado - 268467</h4>
     <h4 style="border:none">Danilo Biladoniga - 231749</h4>
     <h4 style="border:none">Romina Giaccio - 206127</h4>
     <h4 style="border:none">German Oller</h4>
