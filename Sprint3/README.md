@@ -260,12 +260,18 @@ Utilizamos metroretro para hacer la retrospective.
 
 Action Items:
 
-// TODO: Reflexion de action items y listarlos.
-
-- Mejorar las faltas de ortografia
+- Mejorar las faltas de ortografía. Tanto en el readme como en la aplicación verificar que se corrían las faltas que pasamos por alto.
 
 
 ![Retrospective](./assets/retrospective.png)
+
+Action Items anteriores:
+
+Consideramos que se cumplieron los Action items de la retrospective del Sprint 2 ya que:
+
+- Fijamos los horarios para reuniones a partir de las 18hs
+- Obtuvimos pruebas de usuario para más de 3 personas, en este caso 5
+- Los Pull Request realizados fueron revisados por al menos dos integrantes del equipo
 
 ### Burn Charts
 
