@@ -262,8 +262,10 @@ Action Items:
 
 // TODO: Reflexion de action items y listarlos.
 
+- Mejorar las faltas de ortografia
 
-![Retrospective](./assets/retrospective.png) // TODO: Cambiar foto
+
+![Retrospective](./assets/retrospective.png)
 
 ### Burn Charts
 
