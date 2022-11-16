@@ -143,7 +143,7 @@ Utilizaremos GitFlow como estrategia de branching con un leve cambio, agregamos 
 
 - document/X - Documentación nueva/modificada.
 
-![Git Graph](./assets/gitGraph.png)
+![Git Graph](Sprint1/assets/gitGraph.png)
 
 ## Estategias de Pull request
 
