@@ -82,9 +82,6 @@
 * [Resumen del trabajo](#resumen-del-trabajo)
 * [Reflexiones](#reflexiones)
 
-
-# Reflexiones 
-
 # Inicio
 
 ## Adaptación de SCRUM 
