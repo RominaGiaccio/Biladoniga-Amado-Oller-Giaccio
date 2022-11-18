@@ -5,7 +5,11 @@
 Elaboración de un informe académico que resume los resultados y reflexiona sobre las lecciones aprendidas sobre las prácticas de ingeniería de software ágil.
 Video mostrando el funcionamiento del prototipo.
 
-# Informe académico 
+# Informe académico
+
+# Analisis del video
+
+[Video](https://web.microsoftstream.com/video/cbd23c1d-1fee-4262-9b8f-6d6cab259783?list=studio)
 
 ## Resumen de los resultados
 

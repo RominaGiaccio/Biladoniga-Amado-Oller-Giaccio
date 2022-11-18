@@ -1264,7 +1264,7 @@ Unico link para todos los sprints
 
 # Analisis del video
 
-[Video](Link del video)
+[Video](https://web.microsoftstream.com/video/cbd23c1d-1fee-4262-9b8f-6d6cab259783?list=studio)
 
 # Reflexiones 
 
