@@ -17,35 +17,75 @@
     <h4 style="border:none;">Fabiana Pedrini Fein</h4>
     <h4 style="border:none;">Analía Stéfanie Moreira Rodríguez</h4>
 </div>
-<div style="padding:10rem 0 10rem;">
-    <h1 align="center">Indice</h1>
-    <ol> 
-        <li>Inicio</li>
-        <ol>
-            <li></li>
-        </ol>
-        <li>Sprint 1</li>
-        <ol>
-            <li></li>
-        </ol>
-        <li>Sprint 2</li>
-        <ol>
-            <li></li>
-        </ol>
-        <li>Sprint 3</li>
-        <ol>
-            <li></li>
-        </ol>
-        <li>Sprint 4</li>
-        <ol>
-            <li></li>
-        </ol>
-    </ol>
-</div>
 
-<div style="padding:10rem 0 10rem;">
-    <h1 align="center">Inicio</h1>
-</div>
+# Indice
+
+* [Adaptación de SCRUM](#adaptación-de-scrum)
+* [Eventos SCRUM](#eventos-scrum)
+* [Roles](#roles)
+* [Estategias de branching](#estategias-de-branching)
+* [Estategias de Pull request](#estategias-de-pull-request)
+* [Politicas de Trabajo](#politicas-de-trabajo)
+  * [Definition of Ready](#definition-of-ready)
+  * [Definition of Done](#definition-of-done)
+  * [Requerimientos no funcionales](#requerimientos-no-funcionales)
+* [Sprint 1](#sprint-1)
+  * [Objetivo del Sprint](#objetivo-del-sprint-1)
+  * [Sprint Planning](#planning-sprint-1)
+  * [Ejemplo Daily](#ejemplo-daily-sprint-1)
+  * [Review Sprint](#review-sprint-1)
+  * [Retrospective](#retrospective-sprint-1)
+    * [Reflexión de la retro y oportunidades de mejora](#reflexión-de-la-retro-y-oportunidades-de-mejora)
+  * [Investigaciones](#investigaciones)
+    * [Investigacion Moovit](#investigacion-moovit)
+    * [Investigacion STM](#investigacion-stm)
+    * [Investigacion Como Ir](#investigacion-como-ir)
+    * [Investigacion CityMapper](#investigacion-citymapper)
+  * [Entrevistas](#entrevistas)
+    * [Preguntas realizadas](#preguntas-realizadas)
+    * [Entrevista 1](#entrevista-1)
+    * [Entrevista 2](#entrevista-2)
+    * [Entrevista 3](#entrevista-3)
+  * [Resultados de las encuestas](#resultados-de-las-encuestas)
+  * [Análisis de resultados de investigación](#análisis-de-resultados-de-investigación)
+  * [Descripción de interesados](#descripción-de-interesados)
+    * [Funcionalidades por interesados](#funcionalidad-por-interesado)
+  * [Story Map](#story-map-sprint-1)
+    * [Fechas de entrega y objetivos](#fechas-de-entrega-y-objetivos)
+  * [Product Backlog](#product-backlog)
+  * [Historia de usuario y criterios de aceptacion](#historia-de-usuario-y-criterios-de-aceptacion)
+* [Sprint 2](#sprint-2)
+  * [Objetivo del Sprint](#objetivo-del-sprint-2)
+  * [Sprint Planning](#planning-sprint-2)
+  * [Ejemplo Daily](#ejemplo-daily-sprint-2)
+  * [Validacion Prototipo con usuarios](#validacion-prototipo-con-usuarios)
+  * [Prototipos Sprint 2](#prototipos-sprint-2)
+  * [Review Sprint](#review-sprint-2)
+  * [Retrospective](#retrospective-sprint-2)
+  * [Burn Charts](#burn-charts)
+  * [Velocidad de equipo](#velocidad-de-equipo)
+* [Sprint 3](#sprint-3)
+  * [Objetivo del Sprint](#objetivo-del-sprint-3)
+  * [Sprint Planning](#planning-sprint-3)
+  * [Ejemplo Daily](#ejemplo-daily-sprint-3)
+  * [Validacion Prototipo con usuarios](#validacion-prototipo-con-usuarios-sprint-3)
+  * [Prototipos Sprint 2](#prototipos-sprint-3)
+  * [Review Sprint](#review-sprint-3)
+  * [Retrospective](#retrospective-sprint-3)
+  * [Burn Charts](#burn-charts-sprint-3)
+  * [Velocidad de equipo](#velocidad-de-equipo-sprint-3)
+* [Sprint 4](#sprint-4)
+  * [Objetivo del Sprint](#objetivo-del-sprint-4)
+  * [Link a video del canal de webstream](#link-a-video-del-canal-de-webstream)
+* [Reporte de horas](#reporte-de-horas)
+* [Analisis del video](#analisis-del-video)
+* [Resumen del trabajo](#resumen-del-trabajo)
+* [Reflexiones](#reflexiones)
+
+
+# Reflexiones 
+
+# Inicio
 
 ## Adaptación de SCRUM 
 
@@ -213,26 +253,24 @@ Consideraremos que una Historia de Usuario estará terminada cuando cumpla con l
 
 - Compatibilidad: El sistema debe ser compatible para sistemas operativos iOS y Android.
 
-<div style="padding:10rem 0 10rem;">
-    <h1 align="center">Sprint 1</h1>
-</div>
+# Sprint 1
 
 ## Objetivo del Sprint
 
 Identificar el problema y definir una solucion al mismo.
 
-## Sprint Planning
+## Planning Sprint 1
 
 Definimos que tareas teniamos que hacer, entrevistas, encuestas, etc. Nos dividimos algunas tareas.
 Definimos el marco de SCRUM y que eventos y roles vamos a seguir y/o tomar.
 
-## Ejemplo Daily
+## Ejemplo Daily Sprint 1
 
 Investigue sobre Moovit, pros, cons, requisitos, me junte con Romi para ver un poco como empezar el backlog pero no empezamos aun a definirlo.
 
 [Dailies Sprint 1](Sprint1/Dailies.md)
 
-## Sprint Review
+## Review Sprint 1
 
 Nos juntamos con el Product Owner para hacer la review.
 
@@ -241,7 +279,7 @@ En esta meeting revisamos el backlog con el PO y fuimos historia a historia habl
 Obtuvimos feedback y se agregaron nuevas historias de usuario que faltaban, entre ellas descargar el mapa y pago de boletos desde la app.
 
 
-## Retrospective
+## Retrospective Sprint 1
 
 Utilizamos metroretro para hacer la retrospective.
 
@@ -260,7 +298,9 @@ Utilizamos metroretro para hacer la retrospective.
 
   Por otra parte, se analizaron aspectos positivos del equipo, como el apoyo entre los integrantes, la sincronía de pensamiento y compromiso en la participación de cada instancia.
   
-# Investigacion Moovit
+
+# Investigaciones
+## Investigacion Moovit
 
 ### Cumple con los requisitos
 
@@ -425,7 +465,7 @@ Utilizamos metroretro para hacer la retrospective.
 
 # Entrevistas
 
-### Preguntas 
+### Preguntas realizadas
 - 1 ¿Conoces alguna aplicación para viajar en ómnibus?
 - 2 ¿Usas alguna aplicación para ver tu viaje en ómnibus? 
 - 3 ¿Qué ventajas ves en esta?
@@ -498,7 +538,7 @@ Joven de 20 años que utiliza ocasionalmente el transporte publico.
 - 12 Si, sacandole los anuncios.
 - 13 No.
 
-# Resultados Encuesta
+# Resultados de las Encuestas
 
 ![encuesta 1](Sprint1/assets/encuesta/Encuesta%201.png)
 
@@ -615,7 +655,7 @@ Joven de 20 años que utiliza ocasionalmente el transporte publico.
   *	Mapa para recarga de boletos y puestos STM.
 
 
-# Story Map
+# Story Map Sprint 1
 
 [Story Map](https://miro.com/app/board/uXjVPP7CXlM=/?share_link_id=835092374517)
 
@@ -637,7 +677,9 @@ En este sprint se busca incrementar la funcionalidad de la aplicación, agregand
 
 En este sprint se busca priorizar algunas funcionalidades extra para mejorar la experiencia de usuario como, por ejemplo, la posiblidad de editar la foto de perfil y cancelar el viaje actual.
 
-# Product Backlog (Priorizado 1-4)
+# Product Backlog
+
+Priorizado de 1 a 4
 
 ![product backlog stories](Sprint1/assets/backlog.PNG)
 
@@ -650,21 +692,13 @@ En este sprint se busca priorizar algunas funcionalidades extra para mejorar la 
 
 ![ejemplo user story](Sprint1/assets/userStory.png)
 
+# Sprint 2
 
-# Reporte de horas
-
-[Reporte de horas](https://docs.google.com/spreadsheets/d/1Kh862NqWlY94nU2gIDmNjZJNJ3PDnCxO8ejniM3c5-s/edit?usp=sharing)
-
-<div style="padding:10rem 0 10rem;">
-    <h1 align="center">Sprint 2</h1>
-</div>
-
-
-## Objetivo del Sprint
+## Objetivo del Sprint 2
 
 Prototipado de diseños iniciales, para que el usuario pueda iniciar sesión en la aplicación.
 
-## Sprint Planning
+## Planning Sprint 2
 
 Tuvimos una meeting que duro alreadedor de 2:30 horas donde estuvimos hablando con Romi (Product owner)
 con la cual decididimos cuales tareas eran las que aportaban mas valor, también creamos nuevas historias del feedback que
@@ -677,7 +711,7 @@ Finalmente, dividimos las tareas entre el development team.
 
 ![Sprint Backlog](Sprint2/assets/sprintBacklog.png)
 
-## Ejemplo Daily
+## Ejemplo Daily Sprint 2
 
 Reflexión de la retro y oportunidades de mejora, descripción más detallada de los interesados, corrección del story map.
 Tengo planeado terminar de documentar el análisis de resultado de entrevista, encuesta y funcionalidad por interesado. Tenia dudas sobre algunos análisis que habíamos realizado previamente para documentarlos correctamente pero se resolvieron en la daily.
@@ -809,7 +843,7 @@ RE: "La navegación me parecio un poco complicada al principio, pero después de
 RE: "Algunas notificaciones se mostraban contra el borde de la pantalla, lo que dificultaba su lectura."
 
 [Validacion Usuarios](Sprint2/assets/validacion%20usuario.MP4)
-## Prototipos
+## Prototipos Sprint 2
 
 ### Inicio 
 ![PrototypeImage1](Sprint2/assets/inicio.png)
@@ -872,7 +906,7 @@ RE: "Algunas notificaciones se mostraban contra el borde de la pantalla, lo que 
 ### Link a prototipo
 
 [Prototipo](https://www.figma.com/proto/HmnWSlpF0ozOWEV7KaNNtx/ISA-1?node-id=1%3A13&scaling=scale-down&page-id=0%3A1&starting-point-node-id=47%3A46)
-## Sprint Review
+## Review Sprint 2
 
 Nos juntamos con el Product Owner para hacer la review.
 
@@ -881,7 +915,7 @@ Romi nos dejo su feedback de algunas cosas, como por ejemplo que el mapa se veia
 
 Dado el feedback creamos algunas historias de usuario para la proxima iteración.
 
-## Retrospective
+## Retrospective Sprint 2
 
 Utilizamos metroretro para hacer la retrospective.
 
@@ -916,19 +950,13 @@ no se tiene comparacion con sprints anteriores.
 
 <hr>
 
-# Reporte de horas
+# Sprint 3
 
-[Reporte de horas](https://docs.google.com/spreadsheets/d/1Kh862NqWlY94nU2gIDmNjZJNJ3PDnCxO8ejniM3c5-s/edit?usp=sharing)
-
-<div style="padding:10rem 0 10rem;">
-    <h1 align="center">Sprint 3</h1>
-</div>
-
-## Objetivo del Sprint
+## Objetivo del Sprint 3
 
 Prototipado de diseños, principalmente modo viaje y notificaciones.
 
-## Sprint Planning
+## Planning Sprint 3
 
 Tuvimos una meeting que duro alreadedor de 3:00 horas donde estuvimos hablando con Romi (Product owner)
 con la cual decididimos cuales tareas eran las que aportaban mas valor, también creamos nuevas historias del feedback que
@@ -945,13 +973,13 @@ Finalmente, dividimos las tareas entre el development team.
 
 ![Sprint Backlog 2](Sprint3/assets/sprintBacklog2.png)
 
-## Ejemplo Daily
+## Ejemplo Daily sprint 3
 
 Trabaje sobre prototipado en las historias asignadas. Sobre todo en modo viaje debido a que bloquea otras historias de usuario.
 
 [Dailies Sprint 3](Sprint3/Dailies.md)
 
-## Validacion Prototipo con usuarios
+## Validacion Prototipo con usuarios Sprint 3
 
 ### Contexto de las pruebas
 
@@ -1106,7 +1134,7 @@ En estas pruebas los usuarios sugirieron los siguientes ajustes:
 - Un usuario considero que algunos botones son demasiado chicos o resaltan poco, esto se ajusto en el sprint actual.
 - Existia un error en el cual el saldo al cargar mostraba en cantidad de boletos en vez de monto, esto fue ajustado en el sprint actual.
 
-## Prototipos
+## Prototipos Sprint 3
 
 ### Inicio session
 ![PrototypeImage1](Sprint3/assets/InicioSesionRecuperacion.png)
@@ -1171,14 +1199,14 @@ En estas pruebas los usuarios sugirieron los siguientes ajustes:
 ### Link a prototipo
 
 [Prototipo](https://www.figma.com/proto/HmnWSlpF0ozOWEV7KaNNtx/ISA-1?node-id=1%3A13&scaling=scale-down&page-id=0%3A1&starting-point-node-id=47%3A46)
-## Sprint Review
+## Review Sprint 3
 
 Nos juntamos con el Product Owner nuevamente para hacer la review.
 
 En esta meeting revisamos las historias de usuarios realizadas, nos fijamos que se hayan completado cada una, asi también revisamos el feedback dado en la iteración anterior. Revisamos también que se cumplan los criterios de aceptacion y el DoD.
 Hicimos una demo de los prototipos realizados en esta iteración. El PO quedo muy contento sobre el trabajo realizado y que logramos cumplir las metas.
 
-## Retrospective
+## Retrospective Sprint 3
 
 Utilizamos metroretro para hacer la retrospective.
 
@@ -1197,7 +1225,7 @@ Consideramos que se cumplieron los Action items de la retrospective del Sprint 2
 - Obtuvimos pruebas de usuario para más de 3 personas, en este caso 5
 - Los Pull Request realizados fueron revisados por al menos dos integrantes del equipo
 
-### Burn Charts
+### Burn Charts Sprint 3
 
 ![Burndown Chart](Sprint3/assets/burndown.png)
 
@@ -1205,7 +1233,7 @@ Al analizar el grafico, podemos ver un delay a la hora de agregar y realizar las
 
 ![Burnup Chart](Sprint3/assets/burnup.png)
 
-### Velocidad de equipo
+### Velocidad de equipo Sprint 3
 
 Como se puede ver en la foto adjunta, el equipo tuvo una velocidad de 17 puntos. Comparado con el sprint anterior
 se puede ver que el equipo trabajó más, mayor cantidad de puntos, por lo cual se puede llegar a la conclusion que 
@@ -1215,24 +1243,27 @@ el sprint anterior el equipo se estaba ajustando a las herramientas y por lo tan
 
 <hr>
 
-# Reporte de horas
+# Sprint 4
 
-[Reporte de horas](https://docs.google.com/spreadsheets/d/1Kh862NqWlY94nU2gIDmNjZJNJ3PDnCxO8ejniM3c5-s/edit?usp=sharing)
+## Objetivo del sprint
 
+Documentación y muestra de valor de la aplicación realizada.
 
-<div style="padding:10rem 0 10rem;">
-    <h1 align="center">Sprint 4</h1>
-</div>
-
-# Objetivo del sprint
-
-# Link a video del canal de webstream
+## Link a video del canal de webstream
 
 Debe existir un video (de 6 minutos máximo) demostrando el
 flujo principal de los prototipos, explicando el problema que
 se quiere resolver y el valor entregado por el producto
 ideado
 https://web.microsoftstream.com/channel/d34a87ad-2ab5-4e03-88b6-a14c8cbbf24e
+
+<hr>
+
+# Reporte de horas
+
+Unico link para todos los sprints
+
+[Reporte de horas](https://docs.google.com/spreadsheets/d/1Kh862NqWlY94nU2gIDmNjZJNJ3PDnCxO8ejniM3c5-s/edit?usp=sharing)
 
 # Analisis del video
 
@@ -1246,7 +1277,4 @@ Resumen del trabajo y de los resultados
 
 # Reflexiones 
 
-lecciones aprendidas
-sobre las prácticas de ingeniería de software ágil
-
-# Reporte de horas
+Lecciones aprendidas sobre las prácticas de ingeniería de software ágil
