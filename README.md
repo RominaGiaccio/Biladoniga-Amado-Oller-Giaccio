@@ -1267,13 +1267,7 @@ Unico link para todos los sprints
 
 # Analisis del video
 
-El video deberá ser publicado en el canal de
-webstream del curso y enlazado en el informe académico
-para su correcta visualización
-
-# Resumen del trabajo 
-
-Resumen del trabajo y de los resultados
+[Video](Link del video)
 
 # Reflexiones 
 
