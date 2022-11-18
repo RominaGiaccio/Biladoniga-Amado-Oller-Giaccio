@@ -1271,4 +1271,6 @@ Unico link para todos los sprints
 
 # Reflexiones 
 
-Lecciones aprendidas sobre las prácticas de ingeniería de software ágil
+Consideramos que utilizar scrum como metodología de trabajo fue una buena decisión, ya que nos permitió trabajar de manera ordenada y dividir las tareas en pequeños pedazos para poder realizarlas de manera más eficiente.
+Agregado a lo anterior, utilizar dicha metodología nos facilito la integración continua y entrega continua permitiendonos cumplir con nuestros objetivos de manera eficiente en cada iteración, entregando valor de producto lo más frecuente posbile y permitiendonos adaptarnos a los diferentes requerimiento que surgieron durante el desarollo.
+Por otro lado, la estructura de las dailies nos permitió mantenernos al tanto de los avances de cada integrante del equipo y de los problemas que surgieron durante el desarrollo, permitiendonos solucionarlos en una etapa temprana.
